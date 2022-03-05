@@ -1,143 +1,3 @@
-<a href="https://github.com/elviswf/DeepLearningBookQA_cn" target="_blank">elviswf/DeepLearningBookQA_cn: 深度学习面试问题 回答对应的DeepLearning中文版页码</a>  |  <br>  
-<a href="https://github.com/vivienzou1/DL-Notes-for-Interview" target="_blank">vivienzou1/DL-Notes-for-Interview: deep learning/ machine learning</a>  |  <br>  
-<a href="https://github.com/cheeaun/life" target="_blank">cheeaun/life: Life - a timeline of important events in my life</a>  |  <br>  
-<a href="https://github.com/kochrt/cascade.page" target="_blank">kochrt/cascade.page: Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.</a>  |  <br>  
-<a href="https://github.com/jokenox/Goopt" target="_blank">jokenox/Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.</a>  |  <br>  
-<a href="https://github.com/iPeng6/docsify-sidebar-collapse" target="_blank">iPeng6/docsify-sidebar-collapse: a docsify plugin, support sidebar catalog expand and collapse</a>  |  <br>  
-<a href="https://github.com/francoischalifour/medium-zoom" target="_blank">francoischalifour/medium-zoom: 🔎🖼 A JavaScript library for zooming images like Medium</a>  |  <br>  
-<a href="https://github.com/carpedm20/emoji" target="_blank">carpedm20/emoji: emoji terminal output for Python</a>  |  <br>  
-<a href="https://github.com/markedjs/marked" target="_blank">markedjs/marked: A markdown parser and compiler. Built for speed.</a>  |  <br>  
-<a href="https://github.com/njleonzhang/docsify-edit-on-github" target="_blank">njleonzhang/docsify-edit-on-github: None</a>  |  <br>  
-<a href="https://github.com/jhildenbiddle/docsify-themeable" target="_blank">jhildenbiddle/docsify-themeable: A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).</a>  |  <br>  
-<a href="https://github.com/gitalk/gitalk" target="_blank">gitalk/gitalk: Gitalk is a modern comment component based on Github Issue and Preact.</a>  |  <br>  
-<a href="https://github.com/imyelo/docsify-pagination" target="_blank">imyelo/docsify-pagination: ↔️ Pagination for docsify</a>  |  <br>  
-<a href="https://github.com/lilianweng/emoji-semantic-search" target="_blank">lilianweng/emoji-semantic-search: Search the most relevant emojis given a natural language query</a>  |  <br>  
-<a href="https://github.com/hpcaitech/ColossalAI" target="_blank">hpcaitech/ColossalAI: Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training</a>  |  <br>  
-<a href="https://github.com/BlueLogicLabs/planet-docs" target="_blank">BlueLogicLabs/planet-docs: This repository contains the documentation for Planet.</a>  |  <br>  
-<a href="https://github.com/docsifyjs/awesome-docsify" target="_blank">docsifyjs/awesome-docsify: 💖 A curated list of awesome things related to docsify</a>  |  <br>  
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</a>  |  <br>  
-<a href="https://github.com/papyrs/stylo" target="_blank">papyrs/stylo: Another kind of rich text editor</a>  |  <br>  
-<a href="https://github.com/laike9m/Cyberbrain" target="_blank">laike9m/Cyberbrain: Python debugging, redefined.</a>  |  <br>  
-<a href="https://github.com/xxxDeveloper/algorithm-notes" target="_blank">xxxDeveloper/algorithm-notes: 📝 一个小前端的算法笔记 / js algorithm notes</a>  |  <br>  
-<a href="https://github.com/liuhuanyong/DomainWordsDict" target="_blank">liuhuanyong/DomainWordsDict: DomainWordsDict,  Chinese words dict that contains more than 68 domains, which can be used as text classification、knowledge enhance task。涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。</a>  |  <br>  
-<a href="https://github.com/nusr/hacker-laws-zh" target="_blank">nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)</a>  |  <br>  
-<a href="https://github.com/neutralinojs/neutralinojs" target="_blank">neutralinojs/neutralinojs: Portable and lightweight cross-platform desktop application development framework</a>  |  <br>  
-<a href="https://github.com/sqlsec/termux-install-linux" target="_blank">sqlsec/termux-install-linux: Termux一键安装Linux脚本</a>  |  <br>  
-<a href="https://github.com/LingDong-/shan-shui-inf" target="_blank">LingDong-/shan-shui-inf: Procedurally generated Chinese landscape painting.</a>  |  <br>  
-<a href="https://github.com/Naccl/NBlog" target="_blank">Naccl/NBlog: 🍓 Spring Boot + Vue 前后端分离博客系统 https://naccl.top</a>  |  <br>  
-<a href="https://github.com/DengBoCong/nlp-paper" target="_blank">DengBoCong/nlp-paper: 自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）</a>  |  <br>  
-<a href="https://github.com/gristlabs/grist-core" target="_blank">gristlabs/grist-core:  Grist is the evolution of spreadsheets. </a>  |  <br>  
-<a href="https://github.com/PaulLeCam/react-leaflet" target="_blank">PaulLeCam/react-leaflet: React components for Leaflet maps</a>  |  <br>  
-<a href="https://github.com/CliffCloud/Leaflet.EasyButton" target="_blank">CliffCloud/Leaflet.EasyButton: leaflet control buttons with icons and callbacks</a>  |  <br>  
-<a href="https://github.com/htoooth/Leaflet.ChineseTmsProviders" target="_blank">htoooth/Leaflet.ChineseTmsProviders: Provider for Chinese Tms Service</a>  |  <br>  
-<a href="https://github.com/putianxi/putianxi.github.io" target="_blank">putianxi/putianxi.github.io: 滚蛋吧！莆田系</a>  |  <br>  
-<a href="https://github.com/Toblerity/rtree" target="_blank">Toblerity/rtree: Rtree: spatial index for Python GIS ¶</a>  |  <br>  
-<a href="https://github.com/CNFeffery/DataScienceStudyNotes" target="_blank">CNFeffery/DataScienceStudyNotes: 这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容</a>  |  <br>  
-<a href="https://github.com/harmonoid/harmonoid" target="_blank">harmonoid/harmonoid: [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube Music support.</a>  |  <br>  
-<a href="https://github.com/duke-git/lancet" target="_blank">duke-git/lancet: A comprehensive, efficient, and reusable util function library of go.</a>  |  <br>  
-<a href="https://github.com/QMHTMY/RustBook" target="_blank">QMHTMY/RustBook: A book about Rust Data Structures and Algorithms.</a>  |  <br>  
-<a href="https://github.com/TangSY/echarts-map-demo" target="_blank">TangSY/echarts-map-demo: echarts地图geoJson行政边界数据的实时获取与应用，省市区县多级联动下钻，真正意义的下钻至县级【附最新geoJson文件下载】</a>  |  <br>  
-<a href="https://github.com/troyeguo/koodo-reader" target="_blank">troyeguo/koodo-reader: A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web</a>  |  <br>  
-<a href="https://github.com/napthedev/fireverse" target="_blank">napthedev/fireverse: A chat app made with react, typescript, firebase, tailwind</a>  |  <br>  
-<a href="https://github.com/zadam/trilium" target="_blank">zadam/trilium: Build your personal knowledge base with Trilium Notes</a>  |  <br>  
-<a href="https://github.com/medusajs/medusa" target="_blank">medusajs/medusa: The open-source Shopify alternative ⚡️</a>  |  <br>  
-<a href="https://github.com/zellij-org/zellij" target="_blank">zellij-org/zellij: A terminal workspace with batteries included</a>  |  <br>  
-<a href="https://github.com/Chuyu-Team/Dism-Multi-language" target="_blank">Chuyu-Team/Dism-Multi-language: Dism++ Multi-language Support & BUG Report</a>  |  <br>  
-<a href="https://github.com/saveweb/rss-list" target="_blank">saveweb/rss-list: 独立博客&播客全订阅计划！</a>  |  <br>  
-<a href="https://github.com/sherlock-project/sherlock" target="_blank">sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks</a>  |  <br>  
-<a href="https://github.com/Randy8080/reference" target="_blank">Randy8080/reference: Share quick reference cheat sheet for developers.</a>  |  <br>  
-<a href="https://github.com/DustinBrett/daedalOS" target="_blank">DustinBrett/daedalOS: Desktop environment in the browser.</a>  |  <br>  
-<a href="https://github.com/vastutsav/command-line-quick-reference" target="_blank">vastutsav/command-line-quick-reference: quick reference on command line tools and techniques for the people with limited time</a>  |  <br>  
-<a href="https://github.com/HammerPDF/Smart-Scientific-Reader" target="_blank">HammerPDF/Smart-Scientific-Reader: Hammer PDF - Smart Science Reader</a>  |  <br>  
-<a href="https://github.com/mljar/mercury" target="_blank">mljar/mercury: Mercury: easily convert Python notebook to web app and share with others</a>  |  <br>  
-<a href="https://github.com/Coder-Yu/QRec" target="_blank">Coder-Yu/QRec: QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)</a>  |  <br>  
-<a href="https://github.com/kean/Get" target="_blank">kean/Get: Web API client built using async/await</a>  |  <br>  
-<a href="https://github.com/docsifyjs/docsify" target="_blank">docsifyjs/docsify: 🃏 A magical documentation site generator.</a>  |  <br>  
-<a href="https://github.com/geopandas/geopandas" target="_blank">geopandas/geopandas: Python tools for geographic data</a>  |  <br>  
-<a href="https://github.com/Toblerity/Fiona" target="_blank">Toblerity/Fiona: Fiona reads and writes geographic data files</a>  |  <br>  
-<a href="https://github.com/shapely/shapely" target="_blank">shapely/shapely: Manipulation and analysis of geometric objects</a>  |  <br>  
-<a href="https://github.com/wandergis/coordtransform" target="_blank">wandergis/coordtransform: 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换</a>  |  <br>  
-<a href="https://github.com/wandergis/coordTransform_py" target="_blank">wandergis/coordTransform_py: 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本</a>  |  <br>  
-<a href="https://github.com/proj4js/proj4js" target="_blank">proj4js/proj4js: JavaScript library to transform coordinates from one coordinate system to another, including datum transformations</a>  |  <br>  
-<a href="https://github.com/KurtBestor/Hitomi-Downloader" target="_blank">KurtBestor/Hitomi-Downloader: :cake: Desktop utility to download images/videos/music/text from various websites, and more.</a>  |  <br>  
-<a href="https://github.com/fossasia/visdom" target="_blank">fossasia/visdom: A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.</a>  |  <br>  
-<a href="https://github.com/nalgeon/sqlime" target="_blank">nalgeon/sqlime: Online SQLite playground</a>  |  <br>  
-<a href="https://github.com/wsdjeg/Learn-Vim_zh_cn" target="_blank">wsdjeg/Learn-Vim_zh_cn: None</a>  |  <br>  
-<a href="https://github.com/giswqs/geemap" target="_blank">giswqs/geemap: A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.</a>  |  <br>  
-<a href="https://github.com/cleder/fastkml" target="_blank">cleder/fastkml: Fast KML processing for python</a>  |  <br>  
-<a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">jaywcjlove/awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories.</a>  |  <br>  
-<a href="https://github.com/ripperhe/awesome-mac-html" target="_blank">ripperhe/awesome-mac-html: 一个方便查看 "awesome-mac" 的小网址~</a>  |  <br>  
-<a href="https://github.com/ShawnTeoh/matjek" target="_blank">ShawnTeoh/matjek: Material theme based on Materialize.css for jekyll sites</a>  |  <br>  
-<a href="https://github.com/knightyun/knightyun.github.io" target="_blank">knightyun/knightyun.github.io: 🎉欢迎访问我的博客主页！(Welcome to my blog website!)❤</a>  |  <br>  
-<a href="https://github.com/spiritree/note" target="_blank">spiritree/note: :notebook_with_decorative_cover: Note in learning</a>  |  <br>  
-<a href="https://github.com/YerongAI/Office-Tool" target="_blank">YerongAI/Office-Tool: Office Tool Plus localization projects.</a>  |  <br>  
-<a href="https://github.com/synercys/annotated_latex_equations" target="_blank">synercys/annotated_latex_equations: Examples of how to create colorful, annotated equations in Latex using Tikz.</a>  |  <br>  
-<a href="https://github.com/antvis/S2" target="_blank">antvis/S2: ⚡️ Practical analytical Table rendering core lib.</a>  |  <br>  
-<a href="https://github.com/nikochiko/autosaved" target="_blank">nikochiko/autosaved: Never worry about losing your code. Written in Go</a>  |  <br>  
-<a href="https://github.com/MaxLaumeister/PageCrypt" target="_blank">MaxLaumeister/PageCrypt: Client-side password-protection for HTML</a>  |  <br>  
-<a href="https://github.com/brix/crypto-js" target="_blank">brix/crypto-js: JavaScript library of crypto standards.</a>  |  <br>  
-<a href="https://github.com/robinmoisson/staticrypt" target="_blank">robinmoisson/staticrypt: Password protect a static HTML page</a>  |  <br>  
-<a href="https://github.com/yk-liu/PointingToTheMoon" target="_blank">yk-liu/PointingToTheMoon: Super slim Jekyll Theme created for math posts with easy mermaid diagram</a>  |  <br>  
-<a href="https://github.com/yk-liu/yk-liu.github.io" target="_blank">yk-liu/yk-liu.github.io: Pointing to the Moon, my personal website.</a>  |  <br>  
-<a href="https://github.com/greghendershott/frog" target="_blank">greghendershott/frog: Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.</a>  |  <br>  
-<a href="https://github.com/NiuTrans/Classical-Modern" target="_blank">NiuTrans/Classical-Modern: 非常全的文言文（古文）-现代文平行语料</a>  |  <br>  
-<a href="https://github.com/htmlpreview/htmlpreview.github.com" target="_blank">htmlpreview/htmlpreview.github.com: HTML Preview for GitHub Repositories</a>  |  <br>  
-<a href="https://github.com/HuStanding/show_geo" target="_blank">HuStanding/show_geo: 地图显示</a>  |  <br>  
-<a href="https://github.com/BoltzmannEntropy/interviews.ai" target="_blank">BoltzmannEntropy/interviews.ai: It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.</a>  |  <br>  
-<a href="https://github.com/google/python-fire" target="_blank">google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</a>  |  <br>  
-<a href="https://github.com/lapce/lapce" target="_blank">lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust</a>  |  <br>  
-<a href="https://github.com/Bugswriter/notflix" target="_blank">Bugswriter/notflix: Notflix is a shell script to search and stream torrent.</a>  |  <br>  
-<a href="https://github.com/holoviz/geoviews" target="_blank">holoviz/geoviews: Simple, concise geographical visualization in Python</a>  |  <br>  
-<a href="https://github.com/python-visualization/folium" target="_blank">python-visualization/folium: Python Data. Leaflet.js Maps. </a>  |  <br>  
-<a href="https://github.com/Boris-code/feapder" target="_blank">Boris-code/feapder: Feapder is an easy to use, powerful crawler framework | Feapder是一款上手简单，功能强大的Python爬虫框架</a>  |  <br>  
-<a href="https://github.com/shliang0603/Awesome-DeepLearning-500FAQ" target="_blank">shliang0603/Awesome-DeepLearning-500FAQ: 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions  </a>  |  <br>  
-<a href="https://github.com/denolehov/obsidian-git" target="_blank">denolehov/obsidian-git: Backup your Obsidian.md vault with git</a>  |  <br>  
-<a href="https://github.com/gera2ld/markmap" target="_blank">gera2ld/markmap: Visualize your Markdown as mindmaps with Markmap.</a>  |  <br>  
-<a href="https://github.com/78778443/QingScan" target="_blank">78778443/QingScan: 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。</a>  |  <br>  
-<a href="https://github.com/shinnytech/tqsdk-python" target="_blank">shinnytech/tqsdk-python: 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易</a>  |  <br>  
-<a href="https://github.com/wbt5/real-url" target="_blank">wbt5/real-url: 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。</a>  |  <br>  
-<a href="https://github.com/BacooTang/huya-danmu" target="_blank">BacooTang/huya-danmu: huya danmu module for node.js 虎牙直播弹幕监听模块</a>  |  <br>  
-<a href="https://github.com/flxxyz/douyudm" target="_blank">flxxyz/douyudm: 基于websocket实时获取斗鱼弹幕</a>  |  <br>  
-<a href="https://github.com/iyear/pure-live-core" target="_blank">iyear/pure-live-core: ✨ Make Live Pure Again | 让直播回归纯粹</a>  |  <br>  
-<a href="https://github.com/PablocFonseca/streamlit-aggrid" target="_blank">PablocFonseca/streamlit-aggrid: Implementation of Ag-Grid component for Streamlit</a>  |  <br>  
-<a href="https://github.com/okld/streamlit-player" target="_blank">okld/streamlit-player: A streamlit component to embed video and music players from various websites.</a>  |  <br>  
-<a href="https://github.com/okld/streamlit-pandas-profiling" target="_blank">okld/streamlit-pandas-profiling: Pandas profiling component for Streamlit.</a>  |  <br>  
-<a href="https://github.com/ydataai/pandas-profiling" target="_blank">ydataai/pandas-profiling: Create HTML profiling reports from pandas DataFrame objects</a>  |  <br>  
-<a href="https://github.com/PaddlePaddle/PaddleSpeech" target="_blank">PaddlePaddle/PaddleSpeech: Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.</a>  |  <br>  
-<a href="https://github.com/deezer/spleeter" target="_blank">deezer/spleeter: Deezer source separation library including pretrained models.</a>  |  <br>  
-<a href="https://github.com/bagder/everything-curl" target="_blank">bagder/everything-curl: The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.</a>  |  <br>  
-<a href="https://github.com/linkedin/school-of-sre" target="_blank">linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</a>  |  <br>  
-<a href="https://github.com/alesimula/wsa_pacman" target="_blank">alesimula/wsa_pacman: A GUI package manager and package installer for Windows Subsystem for Android (WSA)</a>  |  <br>  
-<a href="https://github.com/penpot/penpot" target="_blank">penpot/penpot: Penpot - The Open-Source design & prototyping platform</a>  |  <br>  
-<a href="https://github.com/arco-design/arco-design" target="_blank">arco-design/arco-design: A comprehensive React UI components library based on Arco Design</a>  |  <br>  
-<a href="https://github.com/termux/termux-app" target="_blank">termux/termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.</a>  |  <br>  
-<a href="https://github.com/DinoChan/Loaf" target="_blank">DinoChan/Loaf: None</a>  |  <br>  
-<a href="https://github.com/datawhalechina/joyful-pandas" target="_blank">datawhalechina/joyful-pandas: pandas中文教程</a>  |  <br>  
-<a href="https://github.com/josonle/Coding-Now" target="_blank">josonle/Coding-Now: 学习记录的一些笔记，以及所看得一些电子书eBooks、视频资源和平常收纳的一些自己认为比较好的博客、网站、工具。涉及大数据几大组件、Python机器学习和数据分析、Linux、操作系统、算法、网络等</a>  |  <br>  
-<a href="https://github.com/streamlit/component-template" target="_blank">streamlit/component-template: Templates and example code for creating Streamlit Components</a>  |  <br>  
-<a href="https://github.com/wshuyi/demo-helloworld-streamlit" target="_blank">wshuyi/demo-helloworld-streamlit: None</a>  |  <br>  
-<a href="https://github.com/turms-im/turms" target="_blank">turms-im/turms: 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs</a>  |  <br>  
-<a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">CSSEGISandData/COVID-19: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE</a>  |  <br>  
-<a href="https://github.com/skyline75489/what-happens-when-zh_CN" target="_blank">skyline75489/what-happens-when-zh_CN: What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when</a>  |  <br>  
-<a href="https://github.com/PanJiaChen/vue-element-admin" target="_blank">PanJiaChen/vue-element-admin: :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin</a>  |  <br>  
-<a href="https://github.com/dundalek/markmap" target="_blank">dundalek/markmap: Visualize markdown documents as mindmaps</a>  |  <br>  
-<a href="https://github.com/ondras/my-mind" target="_blank">ondras/my-mind: Online Mindmapping Software</a>  |  <br>  
-<a href="https://github.com/hizzgdev/jsmind" target="_blank">hizzgdev/jsmind: Javascript version of mind mapping </a>  |  <br>  
-<a href="https://github.com/fex-team/kityminder" target="_blank">fex-team/kityminder: 百度脑图</a>  |  <br>  
-<a href="https://github.com/ningwenyan/demo_code" target="_blank">ningwenyan/demo_code: 示例代码</a>  |  <br>  
-<a href="https://github.com/ivpusic/react-native-image-crop-picker" target="_blank">ivpusic/react-native-image-crop-picker: iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping</a>  |  <br>  
-<a href="https://github.com/tuture-dev/tuture" target="_blank">tuture-dev/tuture: Write tutorials from the future, with the power of Git and community. 『图雀写作工具』</a>  |  <br>  
-<a href="https://github.com/CeeIM/img.tg" target="_blank">CeeIM/img.tg: IMG.TG 图床，永久免费的全球加速图片托管服务。</a>  |  <br>  
-<a href="https://github.com/LemmyNet/lemmy" target="_blank">LemmyNet/lemmy: 🐀 Building a federated link aggregator in rust</a>  |  <br>  
-<a href="https://github.com/LonamiWebs/Telethon" target="_blank">LonamiWebs/Telethon: Pure Python 3 MTProto API Telegram client library, for bots too!</a>  |  <br>  
-<a href="https://github.com/facebookresearch/detectron2" target="_blank">facebookresearch/detectron2: Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.</a>  |  <br>  
-<a href="https://github.com/imadelh/ML-web-app" target="_blank">imadelh/ML-web-app: Train and Deploy Simple Machine Learning Model With Web Interface - Docker, PyTorch & Flask</a>  |  <br>  
-<a href="https://github.com/ufoym/deepo" target="_blank">ufoym/deepo: Setup and customize deep learning environment in seconds.</a>  |  <br>  
-<a href="https://github.com/OpenIMSDK/Open-IM-PC-Web-Demo" target="_blank">OpenIMSDK/Open-IM-PC-Web-Demo: None</a>  |  <br>  
-<a href="https://github.com/VickScarlet/lifeRestart" target="_blank">VickScarlet/lifeRestart: やり直すんだ。そして、次はうまくやる。</a>  |  <br>  
-<a href="https://github.com/sml2h3/ddddocr" target="_blank">sml2h3/ddddocr: 带带弟弟 通用验证码识别OCR pypi版</a>  |  <br>  
-<a href="https://github.com/joyycom/VNN" target="_blank">joyycom/VNN: VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景</a>  |  <br>  
-<a href="https://github.com/lyrric/seckill" target="_blank">lyrric/seckill: 苗苗 约苗 九价 秒杀 脚本</a>  |  <br>  
 <a href="https://github.com/mehdihadeli/awesome-software-architecture" target="_blank">mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.</a>  |  <br>  
 <a href="https://github.com/damoeb/rss-proxy" target="_blank">damoeb/rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.</a>  |  <br>  
 <a href="https://github.com/kuaifan/dootask" target="_blank">kuaifan/dootask: DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。</a>  |  <br>  
@@ -151,7 +11,7 @@
 <a href="https://github.com/prabhatsharma/zinc" target="_blank">prabhatsharma/zinc: Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</a>  |  <br>  
 <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT" target="_blank">PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University</a>  |  <br>  
 <a href="https://github.com/Kenshin/simpread" target="_blank">Kenshin/simpread: 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展</a>  |  <br>  
-<a href="https://github.com/zmister2016/MrDoc" target="_blank">zmister2016/MrDoc: online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。</a>  |  <br>  
+<a href="https://github.com/zmister2016/MrDoc" target="_blank">zmister2016/MrDoc: online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. like gitbook.</a>  |  <br>  
 <a href="https://github.com/IceWhaleTech/CasaOS" target="_blank">IceWhaleTech/CasaOS: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.</a>  |  <br>  
 <a href="https://github.com/tldraw/tldraw" target="_blank">tldraw/tldraw: A tiny little drawing app.</a>  |  <br>  
 <a href="https://github.com/gguoyangz/amazonSpider" target="_blank">gguoyangz/amazonSpider: a spider of amazon</a>  |  <br>  
@@ -160,12 +20,13 @@
 <a href="https://github.com/HowardWH/Amazon-Spider" target="_blank">HowardWH/Amazon-Spider: None</a>  |  <br>  
 <a href="https://github.com/AdeleD/react-paginate" target="_blank">AdeleD/react-paginate: A ReactJS component that creates a pagination</a>  |  <br>  
 <a href="https://github.com/microsoft/vscode-cpptools" target="_blank">microsoft/vscode-cpptools: Official repository for the Microsoft C/C++ extension for VS Code.</a>  |  <br>  
-<a href="https://github.com/encode/uvicorn" target="_blank">encode/uvicorn: An ASGI web server, for Python. 🦄</a>  |  <br>  
+<a href="https://github.com/encode/uvicorn" target="_blank">encode/uvicorn: The lightning-fast ASGI server. 🦄</a>  |  <br>  
 <a href="https://github.com/j-tim/connect-docker-host-from-docker-container-example" target="_blank">j-tim/connect-docker-host-from-docker-container-example: Simple example project that explains how connect to the Docker host from within a Docker container</a>  |  <br>  
 <a href="https://github.com/MysteryVaibhav/leetcode_company_wise_questions" target="_blank">MysteryVaibhav/leetcode_company_wise_questions: This is a repository containing the list of company wise questions available on leetcode premium</a>  |  <br>  
 <a href="https://github.com/TachibanaYoshino/AnimeGANv2" target="_blank">TachibanaYoshino/AnimeGANv2: [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime</a>  |  <br>  
-<a href="https://github.com/wa-lang/ugo-compiler-book" target="_blank">wa-lang/ugo-compiler-book: :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本+Rust版本]</a>  |  <br>  
-<a href="https://github.com/imaNNeoFighT/fl_chart" target="_blank">imaNNeoFighT/fl_chart: FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.</a>  |  <br>  
+<a href="https://github.com/LeonLi0102/spring-in-action-v6-translate" target="_blank">LeonLi0102/spring-in-action-v6-translate: Spring实战（第6版）翻译项目</a>  |  <br>  
+<a href="https://github.com/chai2010/ugo-compiler-book" target="_blank">chai2010/ugo-compiler-book: :books: µGo语言实现(从头开发一个迷你Go语言编译器)</a>  |  <br>  
+<a href="https://github.com/imaNNeoFighT/fl_chart" target="_blank">imaNNeoFighT/fl_chart: A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.</a>  |  <br>  
 <a href="https://github.com/joeycastillo/The-Open-Book" target="_blank">joeycastillo/The-Open-Book: None</a>  |  <br>  
 <a href="https://github.com/boltgolt/howdy" target="_blank">boltgolt/howdy: 🛡️ Windows Hello™ style facial authentication for Linux</a>  |  <br>  
 <a href="https://github.com/zhm-real/PathPlanning" target="_blank">zhm-real/PathPlanning: Common used path planning algorithms with animations.</a>  |  <br>  
@@ -179,8 +40,8 @@
 <a href="https://github.com/pywebio/PyWebIO" target="_blank">pywebio/PyWebIO: Write interactive web app in script way.</a>  |  <br>  
 <a href="https://github.com/Kholid060/automa" target="_blank">Kholid060/automa: A chrome extension for automating your browser by connecting blocks</a>  |  <br>  
 <a href="https://github.com/Unitech/pm2" target="_blank">Unitech/pm2: Node.js Production Process Manager with a built-in Load Balancer.</a>  |  <br>  
-<a href="https://github.com/pearmini/colorfu" target="_blank">pearmini/colorfu: Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈</a>  |  <br>  
-<a href="https://github.com/Codennnn/vue-color-avatar" target="_blank">Codennnn/vue-color-avatar: An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</a>  |  <br>  
+<a href="https://github.com/pearmini/colorfu" target="_blank">pearmini/colorfu: Make beautiful but also meaningful wallpapers with colors and words. 🌈</a>  |  <br>  
+<a href="https://github.com/Codennnn/vue-color-avatar" target="_blank">Codennnn/vue-color-avatar: 🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发</a>  |  <br>  
 <a href="https://github.com/greenrobot/greenDAO" target="_blank">greenrobot/greenDAO: greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.</a>  |  <br>  
 <a href="https://github.com/ssssssss-team/spider-flow" target="_blank">ssssssss-team/spider-flow: 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。</a>  |  <br>  
 <a href="https://github.com/kwhat/jnativehook" target="_blank">kwhat/jnativehook: Global keyboard and mouse listeners for Java.</a>  |  <br>  
@@ -192,7 +53,7 @@
 <a href="https://github.com/hrydgard/ppsspp" target="_blank">hrydgard/ppsspp: A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.</a>  |  <br>  
 <a href="https://github.com/BornToBeRoot/NETworkManager" target="_blank">BornToBeRoot/NETworkManager: A powerful tool for managing networks and troubleshoot network problems!</a>  |  <br>  
 <a href="https://github.com/marian42/wavefunctioncollapse" target="_blank">marian42/wavefunctioncollapse: Walk through an infinite, procedurally generated city</a>  |  <br>  
-<a href="https://github.com/kingToolbox/WindTerm" target="_blank">kingToolbox/WindTerm: A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</a>  |  <br>  
+<a href="https://github.com/kingToolbox/WindTerm" target="_blank">kingToolbox/WindTerm: A quicker and better cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</a>  |  <br>  
 <a href="https://github.com/landley/toybox" target="_blank">landley/toybox: toybox</a>  |  <br>  
 <a href="https://github.com/qiwsir/ITArticles" target="_blank">qiwsir/ITArticles: None</a>  |  <br>  
 <a href="https://github.com/plasma-umass/scalene" target="_blank">plasma-umass/scalene: Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python</a>  |  <br>  
@@ -230,7 +91,7 @@
 <a href="https://github.com/joyzoursky/docker-python-chromedriver" target="_blank">joyzoursky/docker-python-chromedriver: Dockerfile for running Python Selenium in headless Chrome (Python 2.7 / 3.6 / 3.7 / 3.8 / Alpine based Python / Chromedriver / Selenium / Xvfb included in different versions)</a>  |  <br>  
 <a href="https://github.com/linkedin/datahub" target="_blank">linkedin/datahub: The Metadata Platform for the Modern Data Stack</a>  |  <br>  
 <a href="https://github.com/Budibase/budibase" target="_blank">Budibase/budibase: Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 </a>  |  <br>  
-<a href="https://github.com/AppFlowy-IO/AppFlowy" target="_blank">AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</a>  |  <br>  
+<a href="https://github.com/AppFlowy-IO/appflowy" target="_blank">AppFlowy-IO/appflowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</a>  |  <br>  
 <a href="https://github.com/mattermost/focalboard" target="_blank">mattermost/focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</a>  |  <br>  
 <a href="https://github.com/typicode/json-server" target="_blank">typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)</a>  |  <br>  
 <a href="https://github.com/dreamhead/patterns-of-distributed-systems" target="_blank">dreamhead/patterns-of-distributed-systems: 《Patterns of Distributed Systems》中文版</a>  |  <br>  
@@ -238,13 +99,13 @@
 <a href="https://github.com/xuexb/learn-nginx" target="_blank">xuexb/learn-nginx: Nginx 入门指南</a>  |  <br>  
 <a href="https://github.com/miguelgrinberg/microblog" target="_blank">miguelgrinberg/microblog: A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.</a>  |  <br>  
 <a href="https://github.com/izackwu/TeachYourselfCS-CN" target="_blank">izackwu/TeachYourselfCS-CN: TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS</a>  |  <br>  
-<a href="https://github.com/vaexio/vaex" target="_blank">vaexio/vaex: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀</a>  |  <br>  
+<a href="https://github.com/vaexio/vaex" target="_blank">vaexio/vaex: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀</a>  |  <br>  
 <a href="https://github.com/riramar/Web-Attack-Cheat-Sheet" target="_blank">riramar/Web-Attack-Cheat-Sheet: Web Attack Cheat Sheet</a>  |  <br>  
 <a href="https://github.com/miguelgrinberg/react-flask-app" target="_blank">miguelgrinberg/react-flask-app: A Flask + React demo application.</a>  |  <br>  
 <a href="https://github.com/adrianscheff/useful-sed" target="_blank">adrianscheff/useful-sed: Useful sed scripts & patterns. </a>  |  <br>  
 <a href="https://github.com/helix-editor/helix" target="_blank">helix-editor/helix: A post-modern modal text editor.</a>  |  <br>  
 <a href="https://github.com/slackhq/nebula" target="_blank">slackhq/nebula: A scalable overlay networking tool with a focus on performance, simplicity and security</a>  |  <br>  
-<a href="https://github.com/yeemachine/kalidokit" target="_blank">yeemachine/kalidokit: Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.</a>  |  <br>  
+<a href="https://github.com/yeemachine/kalidokit" target="_blank">yeemachine/kalidokit: Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.</a>  |  <br>  
 <a href="https://github.com/UlionTse/translators" target="_blank">UlionTse/translators: 🌏🌍🌎Translators🌎🌍🌏 is a library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。</a>  |  <br>  
 <a href="https://github.com/shemminger/iproute2" target="_blank">shemminger/iproute2: Linux routing utilities</a>  |  <br>  
 <a href="https://github.com/canonical/subiquity" target="_blank">canonical/subiquity: Ubuntu Server Installer</a>  |  <br>  
@@ -259,40 +120,40 @@
 <a href="https://github.com/zmide/study.zmide.com" target="_blank">zmide/study.zmide.com: 全能搜题网页端源代码，全能搜题项目是一个基于开源社区公开贡献的永久免费搜题系统。</a>  |  <br>  
 <a href="https://github.com/questdb/questdb" target="_blank">questdb/questdb: An open source SQL database designed to process time series data, faster</a>  |  <br>  
 <a href="https://github.com/fangpenlin/avataaars-generator" target="_blank">fangpenlin/avataaars-generator: Simple generator React app for avataaars</a>  |  <br>  
-<a href="https://github.com/jkstack/natpass" target="_blank">jkstack/natpass: 新一代主机管理工具，支持web vnc和web shell</a>  |  <br>  
+<a href="https://github.com/lwch/natpass" target="_blank">lwch/natpass: 新一代主机管理工具</a>  |  <br>  
 <a href="https://github.com/kekingcn/kkFileView" target="_blank">kekingcn/kkFileView: spring-boot打造文件文档在线预览项目</a>  |  <br>  
 <a href="https://github.com/coffe1891/frontend-hard-mode-interview" target="_blank">coffe1891/frontend-hard-mode-interview: 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。</a>  |  <br>  
 <a href="https://github.com/docker/machine" target="_blank">docker/machine: Machine management for a container-centric world</a>  |  <br>  
 <a href="https://github.com/kristenvaccaro/fashion-data" target="_blank">kristenvaccaro/fashion-data: Fashion data from Polyvore</a>  |  <br>  
 <a href="https://github.com/qxinGitHub/searchEngineJump" target="_blank">qxinGitHub/searchEngineJump: 搜索引擎跳转脚本,能够方便的在多个引擎之间跳转</a>  |  <br>  
-<a href="https://github.com/NekoX-Dev/NekoX" target="_blank">NekoX-Dev/NekoX: A third-party Telegram android app.</a>  |  <br>  
+<a href="https://github.com/NekoX-Dev/NekoX" target="_blank">NekoX-Dev/NekoX: The third-party Telegram android app.</a>  |  <br>  
 <a href="https://github.com/shfshanyue/Daily-Question" target="_blank">shfshanyue/Daily-Question: 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中</a>  |  <br>  
 <a href="https://github.com/BookStackApp/BookStack" target="_blank">BookStackApp/BookStack: A platform to create documentation/wiki content built with PHP & Laravel</a>  |  <br>  
-<a href="https://github.com/jaredpalmer/formik" target="_blank">jaredpalmer/formik: Build forms in React, without the tears 😭 </a>  |  <br>  
-<a href="https://github.com/XPoet/picx" target="_blank">XPoet/picx: 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！</a>  |  <br>  
+<a href="https://github.com/formium/formik" target="_blank">formium/formik: Build forms in React, without the tears 😭 </a>  |  <br>  
+<a href="https://github.com/XPoet/picx" target="_blank">XPoet/picx: PicX 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。无需下载！无需安装！打开网站即用！免费！极速！稳定！</a>  |  <br>  
 <a href="https://github.com/TruthHun/converter" target="_blank">TruthHun/converter: 通过calibre将html转成epub、mobi、PDF等</a>  |  <br>  
 <a href="https://github.com/mindoc-org/mindoc" target="_blank">mindoc-org/mindoc: Golang实现的基于beego框架的接口在线文档管理系统</a>  |  <br>  
 <a href="https://github.com/TruthHun/BookStack" target="_blank">TruthHun/BookStack: BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。</a>  |  <br>  
 <a href="https://github.com/Homebrew/brew" target="_blank">Homebrew/brew: 🍺 The missing package manager for macOS (or Linux)</a>  |  <br>  
 <a href="https://github.com/donnemartin/system-design-primer" target="_blank">donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</a>  |  <br>  
 <a href="https://github.com/JalanJiang/leetcode-notebook" target="_blank">JalanJiang/leetcode-notebook: 🌛LeetCode 题解，每日更新，欢迎 Watch。每天一道算法题，和我一起变强吧！</a>  |  <br>  
-<a href="https://github.com/murraco/jekyll-theme-minimal-resume" target="_blank">murraco/jekyll-theme-minimal-resume: Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com</a>  |  <br>  
+<a href="https://github.com/murraco/jekyll-theme-minimal-resume" target="_blank">murraco/jekyll-theme-minimal-resume: Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com/</a>  |  <br>  
 <a href="https://github.com/caixw/apidoc" target="_blank">caixw/apidoc: RESTful API 文档生成工具，支持 Go、Java、Swift、JavaScript、Rust、PHP、Python、Typescript、Kotlin 和 Ruby 等大部分语言。</a>  |  <br>  
 <a href="https://github.com/meteorlxy/vssue" target="_blank">meteorlxy/vssue: :mailbox: A Vue-powered Issue-based Comment Plugin</a>  |  <br>  
 <a href="https://github.com/SkypLabs/bsfl" target="_blank">SkypLabs/bsfl: Bash Shell Function Library</a>  |  <br>  
 <a href="https://github.com/aks/bash-lib" target="_blank">aks/bash-lib: Library of bash scripts</a>  |  <br>  
 <a href="https://github.com/hucongcong/hkzf-mobile-42" target="_blank">hucongcong/hkzf-mobile-42: 好客租房的项目</a>  |  <br>  
-<a href="https://github.com/taoshihan1991/go-fly" target="_blank">taoshihan1991/go-fly: 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source live customer chat by golang</a>  |  <br>  
+<a href="https://github.com/taoshihan1991/go-fly" target="_blank">taoshihan1991/go-fly: 开源客服系统GO语言开发GO-FLY,免费客服系统/open source live customer chat by golang</a>  |  <br>  
 <a href="https://github.com/wubaiqing/zaobao" target="_blank">wubaiqing/zaobao: 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。</a>  |  <br>  
 <a href="https://github.com/babysor/MockingBird" target="_blank">babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time</a>  |  <br>  
-<a href="https://github.com/louisfb01/best_AI_papers_2021" target="_blank">louisfb01/best_AI_papers_2021: A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.</a>  |  <br>  
+<a href="https://github.com/louisfb01/best_AI_papers_2021" target="_blank">louisfb01/best_AI_papers_2021: A  curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]</a>  |  <br>  
 <a href="https://github.com/bryandlee/animegan2-pytorch" target="_blank">bryandlee/animegan2-pytorch: PyTorch implementation of AnimeGANv2</a>  |  <br>  
 <a href="https://github.com/Kyome22/RunCat_for_windows" target="_blank">Kyome22/RunCat_for_windows: A cute running cat animation on your windows taskbar.</a>  |  <br>  
 <a href="https://github.com/searx/searx" target="_blank">searx/searx: Privacy-respecting metasearch engine</a>  |  <br>  
 <a href="https://github.com/duxiaoqin/duxiaoqin.github.io" target="_blank">duxiaoqin/duxiaoqin.github.io: None</a>  |  <br>  
 <a href="https://github.com/datawhalechina/learn-nlp-with-transformers" target="_blank">datawhalechina/learn-nlp-with-transformers: we want to create a repo to illustrate usage of transformers in chinese</a>  |  <br>  
 <a href="https://github.com/graykode/nlp-tutorial" target="_blank">graykode/nlp-tutorial: Natural Language Processing Tutorial for Deep Learning Researchers</a>  |  <br>  
-<a href="https://github.com/PaddlePaddle/PaddleNLP" target="_blank">PaddlePaddle/PaddleNLP: Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.</a>  |  <br>  
+<a href="https://github.com/PaddlePaddle/PaddleNLP" target="_blank">PaddlePaddle/PaddleNLP: Easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.</a>  |  <br>  
 <a href="https://github.com/TandoorRecipes/recipes" target="_blank">TandoorRecipes/recipes: Application for managing recipes, planning meals, building shopping lists and much much more!</a>  |  <br>  
 <a href="https://github.com/vandadnp/flutter-tips-and-tricks" target="_blank">vandadnp/flutter-tips-and-tricks: A Collection of Flutter and Dart Tips and Tricks</a>  |  <br>  
 <a href="https://github.com/Skykai521/AndroidDeveloperAdvancedManual" target="_blank">Skykai521/AndroidDeveloperAdvancedManual: Android 工程师进阶手册（8 年 Android 开发者的成长感悟）</a>  |  <br>  
@@ -316,7 +177,7 @@
 <a href="https://github.com/telegramdesktop/tdesktop" target="_blank">telegramdesktop/tdesktop: Telegram Desktop messaging app</a>  |  <br>  
 <a href="https://github.com/DrKLO/Telegram" target="_blank">DrKLO/Telegram: Telegram for Android source</a>  |  <br>  
 <a href="https://github.com/notifirehq/notifire" target="_blank">notifirehq/notifire: 🚀 Open-source notification infrastructure for products</a>  |  <br>  
-<a href="https://github.com/PaddlePaddle/PaddleGAN" target="_blank">PaddlePaddle/PaddleGAN: PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.</a>  |  <br>  
+<a href="https://github.com/PaddlePaddle/PaddleGAN" target="_blank">PaddlePaddle/PaddleGAN: PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.</a>  |  <br>  
 <a href="https://github.com/gotify/android" target="_blank">gotify/android: An app for creating push notifications for new messages posted to gotify/server.</a>  |  <br>  
 <a href="https://github.com/summitech/gitexplorer" target="_blank">summitech/gitexplorer: Find the right git commands without digging through the web.</a>  |  <br>  
 <a href="https://github.com/gotify/server" target="_blank">gotify/server: A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)</a>  |  <br>  
@@ -328,7 +189,7 @@
 <a href="https://github.com/arslanbilal/git-cheat-sheet" target="_blank">arslanbilal/git-cheat-sheet: :octocat: git and git flow cheat sheet</a>  |  <br>  
 <a href="https://github.com/aceimnorstuvwxz/dgk_lost_conv" target="_blank">aceimnorstuvwxz/dgk_lost_conv:  dgk_lost_conv 中文对白语料 chinese conversation corpus </a>  |  <br>  
 <a href="https://github.com/codemayq/chinese_chatbot_corpus" target="_blank">codemayq/chinese_chatbot_corpus: 中文公开聊天语料库</a>  |  <br>  
-<a href="https://github.com/pola-rs/polars" target="_blank">pola-rs/polars: Fast multi-threaded DataFrame library in Rust | Python | Node.js</a>  |  <br>  
+<a href="https://github.com/pola-rs/polars" target="_blank">pola-rs/polars: Fast multi-threaded DataFrame library in Rust and Python</a>  |  <br>  
 <a href="https://github.com/YiiGuxing/TranslationPlugin" target="_blank">YiiGuxing/TranslationPlugin: Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.</a>  |  <br>  
 <a href="https://github.com/mozillazg/python-pinyin" target="_blank">mozillazg/python-pinyin: 汉字转拼音(pypinyin)</a>  |  <br>  
 <a href="https://github.com/sbfkcel/towxml" target="_blank">sbfkcel/towxml: 微信小程序HTML、Markdown渲染库</a>  |  <br>  
@@ -348,7 +209,7 @@
 <a href="https://github.com/gopherdata/gophernotes" target="_blank">gopherdata/gophernotes: The Go kernel for Jupyter notebooks and nteract.</a>  |  <br>  
 <a href="https://github.com/yunabe/lgo" target="_blank">yunabe/lgo: Interactive Go programming with Jupyter</a>  |  <br>  
 <a href="https://github.com/gin-gonic/gin" target="_blank">gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</a>  |  <br>  
-<a href="https://github.com/flipped-aurora/gin-vue-admin" target="_blank">flipped-aurora/gin-vue-admin: 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。</a>  |  <br>  
+<a href="https://github.com/flipped-aurora/gin-vue-admin" target="_blank">flipped-aurora/gin-vue-admin: 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。</a>  |  <br>  
 <a href="https://github.com/dromara/Sa-Token" target="_blank">dromara/Sa-Token: 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...</a>  |  <br>  
 <a href="https://github.com/imleowoo/fuck-login" target="_blank">imleowoo/fuck-login: 提供一些境内境外常见的站点Python登录脚本</a>  |  <br>  
 <a href="https://github.com/DouyinFE/semi-design" target="_blank">DouyinFE/semi-design: A modern, comprehensive, flexible design system and React UI library</a>  |  <br>  
@@ -376,10 +237,11 @@
 <a href="https://github.com/plotly/plotly_express" target="_blank">plotly/plotly_express: Plotly Express - Simple syntax for complex charts. Now integrated into plotly.py!</a>  |  <br>  
 <a href="https://github.com/sniptt-official/ots" target="_blank">sniptt-official/ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL</a>  |  <br>  
 <a href="https://github.com/qishibo/AnotherRedisDesktopManager" target="_blank">qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.</a>  |  <br>  
-<a href="https://github.com/uglide/RedisDesktopManager" target="_blank">uglide/RedisDesktopManager: :wrench: Cross-platform Developer GUI for Redis</a>  |  <br>  
+<a href="https://github.com/uglide/RedisDesktopManager" target="_blank">uglide/RedisDesktopManager: :wrench: Cross-platform GUI management tool for Redis</a>  |  <br>  
 <a href="https://github.com/laixintao/iredis" target="_blank">laixintao/iredis: Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.</a>  |  <br>  
 <a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">react-bootstrap/react-bootstrap: Bootstrap components built with React</a>  |  <br>  
 <a href="https://github.com/excalidraw/excalidraw" target="_blank">excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams</a>  |  <br>  
+<a href="https://github.com/docsifyjs/docsify" target="_blank">docsifyjs/docsify: 🃏 A magical documentation site generator.</a>  |  <br>  
 <a href="https://github.com/timqian/chinese-independent-blogs" target="_blank">timqian/chinese-independent-blogs: 中文独立博客列表</a>  |  <br>  
 <a href="https://github.com/yousuowei123/us_brand_trademark_scraping" target="_blank">yousuowei123/us_brand_trademark_scraping: us trademark scraping</a>  |  <br>  
 <a href="https://github.com/xuyichenmo/Selenium-Document" target="_blank">xuyichenmo/Selenium-Document: a document with regard to selenium</a>  |  <br>  
@@ -397,10 +259,10 @@
 <a href="https://github.com/reacttips-dev/codebases" target="_blank">reacttips-dev/codebases: This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.</a>  |  <br>  
 <a href="https://github.com/louislam/uptime-kuma" target="_blank">louislam/uptime-kuma: A fancy self-hosted monitoring tool</a>  |  <br>  
 <a href="https://github.com/microsoft/Data-Science-For-Beginners" target="_blank">microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!</a>  |  <br>  
-<a href="https://github.com/Uahh/Slscq" target="_blank">Uahh/Slscq: None</a>  |  <br>  
+<a href="https://github.com/Uahh/slscq" target="_blank">Uahh/slscq: None</a>  |  <br>  
 <a href="https://github.com/crazyqiang/AndroidStudy" target="_blank">crazyqiang/AndroidStudy: 🔥 Android学习知识点总结 jetpack、mvvm、kotlin、juc多线程等，欢迎star！</a>  |  <br>  
 <a href="https://github.com/knowsex/knowsex.github.io" target="_blank">knowsex/knowsex.github.io: 知性，开放式性教育网站。KnowSex.net is a sex education website.</a>  |  <br>  
-<a href="https://github.com/meilisearch/meilisearch-js" target="_blank">meilisearch/meilisearch-js: JavaScript client for the Meilisearch API</a>  |  <br>  
+<a href="https://github.com/meilisearch/meilisearch-js" target="_blank">meilisearch/meilisearch-js: Javascript client for the MeiliSearch API</a>  |  <br>  
 <a href="https://github.com/rmax/scrapy-redis" target="_blank">rmax/scrapy-redis: Redis-based components for Scrapy.</a>  |  <br>  
 <a href="https://github.com/JonasCz/How-To-Prevent-Scraping" target="_blank">JonasCz/How-To-Prevent-Scraping: The ultimate guide on preventing Website Scraping</a>  |  <br>  
 <a href="https://github.com/anvaka/city-roads" target="_blank">anvaka/city-roads: Visualization of all roads within any city</a>  |  <br>  
@@ -424,7 +286,7 @@
 <a href="https://github.com/bezkoder/node-express-mongodb" target="_blank">bezkoder/node-express-mongodb: Node.js Restful CRUD API with Node.js, Express and MongoDB</a>  |  <br>  
 <a href="https://github.com/mongodb-developer/nodejs-quickstart" target="_blank">mongodb-developer/nodejs-quickstart: This repository contains code samples for the Node.js Quick Start blog post series</a>  |  <br>  
 <a href="https://github.com/mongodb/node-mongodb-native" target="_blank">mongodb/node-mongodb-native: The Official MongoDB Node.js Driver</a>  |  <br>  
-<a href="https://github.com/doableware/djongo" target="_blank">doableware/djongo: Django and MongoDB database connector</a>  |  <br>  
+<a href="https://github.com/nesdis/djongo" target="_blank">nesdis/djongo: Django and MongoDB database connector</a>  |  <br>  
 <a href="https://github.com/MongoEngine/django-mongoengine" target="_blank">MongoEngine/django-mongoengine: django mongoengine integration</a>  |  <br>  
 <a href="https://github.com/tox-dev/tox" target="_blank">tox-dev/tox: Command line driven CI frontend and development task automation tool.</a>  |  <br>  
 <a href="https://github.com/MongoEngine/flask-mongoengine" target="_blank">MongoEngine/flask-mongoengine: MongoEngine flask extension with WTF model forms support</a>  |  <br>  
@@ -530,7 +392,7 @@
 <a href="https://github.com/jzsjiale/scrapy" target="_blank">jzsjiale/scrapy: Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。关注微信公众号“码上”，查看更多教程。</a>  |  <br>  
 <a href="https://github.com/python-engineer/ml-study-plan" target="_blank">python-engineer/ml-study-plan: The Ultimate FREE Machine Learning Study Plan</a>  |  <br>  
 <a href="https://github.com/adam-mcdaniel/dune" target="_blank">adam-mcdaniel/dune: A shell🐚 by the beach🏖️!</a>  |  <br>  
-<a href="https://github.com/datawhalechina/pumpkin-book" target="_blank">datawhalechina/pumpkin-book: 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book ，配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU</a>  |  <br>  
+<a href="https://github.com/datawhalechina/pumpkin-book" target="_blank">datawhalechina/pumpkin-book: 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book</a>  |  <br>  
 <a href="https://github.com/woai3c/introduction-to-front-end-engineering" target="_blank">woai3c/introduction-to-front-end-engineering: 一本小书《带你入门前端工程》</a>  |  <br>  
 <a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.</a>  |  <br>  
 <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript" target="_blank">Asabeneh/30-Days-Of-JavaScript: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. </a>  |  <br>  
@@ -556,7 +418,7 @@
 <a href="https://github.com/abhimanyu003/sttr" target="_blank">abhimanyu003/sttr: cross-platform, cli app to perform various operations on string</a>  |  <br>  
 <a href="https://github.com/luin/wechat-export" target="_blank">luin/wechat-export: 📃 Export WeChat chat histories to HTML files.</a>  |  <br>  
 <a href="https://github.com/h2oai/wave" target="_blank">h2oai/wave: Realtime Web Apps and Dashboards for Python and R</a>  |  <br>  
-<a href="https://github.com/theatre-js/theatre" target="_blank">theatre-js/theatre: Motion design editor for the web</a>  |  <br>  
+<a href="https://github.com/AriaMinaei/theatre" target="_blank">AriaMinaei/theatre: Motion design editor for the web</a>  |  <br>  
 <a href="https://github.com/wkentaro/moviepy-cli" target="_blank">wkentaro/moviepy-cli: Command line interface for MoviePy.</a>  |  <br>  
 <a href="https://github.com/PeterL1n/RobustVideoMatting" target="_blank">PeterL1n/RobustVideoMatting: Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!</a>  |  <br>  
 <a href="https://github.com/bilibili/ijkplayer" target="_blank">bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.</a>  |  <br>  
@@ -576,7 +438,7 @@
 <a href="https://github.com/authelia/authelia" target="_blank">authelia/authelia: The Single Sign-On Multi-Factor portal for web apps</a>  |  <br>  
 <a href="https://github.com/restic/restic" target="_blank">restic/restic: Fast, secure, efficient backup program</a>  |  <br>  
 <a href="https://github.com/microsoft/qlib" target="_blank">microsoft/qlib: Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.</a>  |  <br>  
-<a href="https://github.com/calcom/cal.com" target="_blank">calcom/cal.com: Scheduling infrastructure for absolutely everyone.</a>  |  <br>  
+<a href="https://github.com/calendso/calendso" target="_blank">calendso/calendso: Scheduling infrastructure for absolutely everyone.</a>  |  <br>  
 <a href="https://github.com/Python-World/python-mini-projects" target="_blank">Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills</a>  |  <br>  
 <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.</a>  |  <br>  
 <a href="https://github.com/micromata/awesome-javascript-learning" target="_blank">micromata/awesome-javascript-learning: A tiny list limited to the best JavaScript Learning Resources</a>  |  <br>  
@@ -608,7 +470,7 @@
 <a href="https://github.com/7kms/react-illustration-series" target="_blank">7kms/react-illustration-series: 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.</a>  |  <br>  
 <a href="https://github.com/answershuto/learnVue" target="_blank">answershuto/learnVue: :octocat:Vue.js 源码解析</a>  |  <br>  
 <a href="https://github.com/lubanproj/grpc-read" target="_blank">lubanproj/grpc-read: grpc 源码解读</a>  |  <br>  
-<a href="https://github.com/hhstore/annotated-py-projects" target="_blank">hhstore/annotated-py-projects: flask/sanic/asyncio/bottle/webpy 等源码注解合集</a>  |  <br>  
+<a href="https://github.com/hhstore/annotated-py-projects" target="_blank">hhstore/annotated-py-projects: flask/sanic/asyncio/bottle/webpy 大量项目 源码阅读注释合集</a>  |  <br>  
 <a href="https://github.com/redis/redis" target="_blank">redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.</a>  |  <br>  
 <a href="https://github.com/huangz1990/redis-3.0-annotated" target="_blank">huangz1990/redis-3.0-annotated: 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。</a>  |  <br>  
 <a href="https://github.com/niandeng-ckplayer/chplayer" target="_blank">niandeng-ckplayer/chplayer: 网页视频播放器，支持mp4,flv,f4v以及m3u8格式，支持rtmp。支持点播和直播</a>  |  <br>  
@@ -617,7 +479,7 @@
 <a href="https://github.com/wangriyu/Collections" target="_blank">wangriyu/Collections: 整理自己的收藏</a>  |  <br>  
 <a href="https://github.com/rainmeter/rainmeter" target="_blank">rainmeter/rainmeter: Desktop customization tool for Windows</a>  |  <br>  
 <a href="https://github.com/kangjianwei/Data-Structure" target="_blank">kangjianwei/Data-Structure: 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析</a>  |  <br>  
-<a href="https://github.com/vuejs/docs" target="_blank">vuejs/docs: 📄 Documentation for Vue 3</a>  |  <br>  
+<a href="https://github.com/vuejs/docs" target="_blank">vuejs/docs: Vue 3 core documentation</a>  |  <br>  
 <a href="https://github.com/d3/d3" target="_blank">d3/d3: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:</a>  |  <br>  
 <a href="https://github.com/zhongyang219/TrafficMonitor" target="_blank">zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</a>  |  <br>  
 <a href="https://github.com/jwtk/jjwt" target="_blank">jwtk/jjwt: Java JWT: JSON Web Token for Java and Android</a>  |  <br>  
@@ -652,7 +514,7 @@
 <a href="https://github.com/torproject/tor" target="_blank">torproject/tor: unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --</a>  |  <br>  
 <a href="https://github.com/richardpenman/whois" target="_blank">richardpenman/whois: None</a>  |  <br>  
 <a href="https://github.com/TencentCloud/tencentcloud-cli" target="_blank">TencentCloud/tencentcloud-cli: Tencent Cloud API 3.0 Command Line Interface</a>  |  <br>  
-<a href="https://github.com/vpncn/vpncn.github.io" target="_blank">vpncn/vpncn.github.io: 2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。</a>  |  <br>  
+<a href="https://github.com/vpncn/vpncn.github.io" target="_blank">vpncn/vpncn.github.io: 2021中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。</a>  |  <br>  
 <a href="https://github.com/tesseract-ocr/tessdata" target="_blank">tesseract-ocr/tessdata: Trained models with support for legacy and LSTM OCR engine</a>  |  <br>  
 <a href="https://github.com/Santostang/PythonScraping" target="_blank">Santostang/PythonScraping: The code of book: Python Scraping</a>  |  <br>  
 <a href="https://github.com/Yixiaohan/codeparkshare" target="_blank">Yixiaohan/codeparkshare: Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐</a>  |  <br>  
@@ -682,7 +544,7 @@
 <a href="https://github.com/jiangnianshun/django-mdict" target="_blank">jiangnianshun/django-mdict: django-mdict是django实现的mdict词典查询工具。</a>  |  <br>  
 <a href="https://github.com/ttroy50/cmake-examples" target="_blank">ttroy50/cmake-examples: Useful CMake Examples</a>  |  <br>  
 <a href="https://github.com/keefeWu/cuda_learning" target="_blank">keefeWu/cuda_learning: Learning cuda codes</a>  |  <br>  
-<a href="https://github.com/zufuliu/notepad2" target="_blank">zufuliu/notepad2: Notepad2-zufuliu is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled with file browser plugin metapath.</a>  |  <br>  
+<a href="https://github.com/zufuliu/notepad2" target="_blank">zufuliu/notepad2: Notepad2 is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled with file browser plugin metapath and dark theme.</a>  |  <br>  
 <a href="https://github.com/nepluno/libwetcloth" target="_blank">nepluno/libwetcloth: A Multi-Scale Model for Simulating Liquid-Fabric Interactions</a>  |  <br>  
 <a href="https://github.com/microsoft/terminal" target="_blank">microsoft/terminal: The new Windows Terminal and the original Windows console host, all in the same place!</a>  |  <br>  
 <a href="https://github.com/BYVoid/OpenCC" target="_blank">BYVoid/OpenCC: Conversion between Traditional and Simplified Chinese</a>  |  <br>  
@@ -698,7 +560,7 @@
 <a href="https://github.com/haoel/leetcode" target="_blank">haoel/leetcode: LeetCode Problems' Solutions </a>  |  <br>  
 <a href="https://github.com/vim/vim" target="_blank">vim/vim: The official Vim repository</a>  |  <br>  
 <a href="https://github.com/papers-we-love/papers-we-love" target="_blank">papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.</a>  |  <br>  
-<a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">ohmyzsh/ohmyzsh: 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</a>  |  <br>  
+<a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">ohmyzsh/ohmyzsh: 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</a>  |  <br>  
 <a href="https://github.com/neovim/neovim" target="_blank">neovim/neovim: Vim-fork focused on extensibility and usability</a>  |  <br>  
 <a href="https://github.com/mayswind/AriaNg" target="_blank">mayswind/AriaNg: AriaNg, a modern web frontend making aria2 easier to use.</a>  |  <br>  
 <a href="https://github.com/syl20bnr/spacemacs" target="_blank">syl20bnr/spacemacs: A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!</a>  |  <br>  
@@ -707,19 +569,20 @@
 <a href="https://github.com/0xAX/linux-insides" target="_blank">0xAX/linux-insides: A little bit about a linux kernel</a>  |  <br>  
 <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">EbookFoundation/free-programming-books: :books: Freely available programming books</a>  |  <br>  
 <a href="https://github.com/atauzki/ColDownloader" target="_blank">atauzki/ColDownloader: Collins English Dictionary Grabber</a>  |  <br>  
+<a href="https://github.com/Boris-code/feapder" target="_blank">Boris-code/feapder: feapder是一款支持分布式、批次采集、任务防丢、报警丰富的python爬虫框架</a>  |  <br>  
 <a href="https://github.com/itgoyo/TelegramGroup" target="_blank">itgoyo/TelegramGroup: Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests</a>  |  <br>  
 <a href="https://github.com/CareyWang/sub-web" target="_blank">CareyWang/sub-web: None</a>  |  <br>  
 <a href="https://github.com/tindy2013/subconverter" target="_blank">tindy2013/subconverter: Utility to convert between various subscription format</a>  |  <br>  
 <a href="https://github.com/ACL4SSR/ACL4SSR" target="_blank">ACL4SSR/ACL4SSR: SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址</a>  |  <br>  
 <a href="https://github.com/wsdjeg/vim-galore-zh_cn" target="_blank">wsdjeg/vim-galore-zh_cn: Vim 从入门到精通</a>  |  <br>  
 <a href="https://github.com/XIU2/TrackersListCollection" target="_blank">XIU2/TrackersListCollection: 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！</a>  |  <br>  
-<a href="https://github.com/XIU2/CloudflareSpeedTest" target="_blank">XIU2/CloudflareSpeedTest: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~</a>  |  <br>  
+<a href="https://github.com/XIU2/CloudflareSpeedTest" target="_blank">XIU2/CloudflareSpeedTest: 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！</a>  |  <br>  
 <a href="https://github.com/fhefh2015/Fast-GitHub" target="_blank">fhefh2015/Fast-GitHub: 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！</a>  |  <br>  
 <a href="https://github.com/cyd1310997/cyd1310997.github.io" target="_blank">cyd1310997/cyd1310997.github.io: cyd Blog -</a>  |  <br>  
 <a href="https://github.com/budaLi/-Learning-materials-" target="_blank">budaLi/-Learning-materials-: 各种学习资料，包括一些百度云视频链接还有pdf资料 --搬运工</a>  |  <br>  
 <a href="https://github.com/Shopify/liquid" target="_blank">Shopify/liquid: Liquid markup language. Safe, customer facing template language for flexible web apps. </a>  |  <br>  
 <a href="https://github.com/jekyll/jekyll" target="_blank">jekyll/jekyll: :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby</a>  |  <br>  
-<a href="https://github.com/nonebot/nonebot2" target="_blank">nonebot/nonebot2: 跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python</a>  |  <br>  
+<a href="https://github.com/nonebot/nonebot2" target="_blank">nonebot/nonebot2: 跨平台 Python 异步机器人框架</a>  |  <br>  
 <a href="https://github.com/wfxr/tmux-fzf-url" target="_blank">wfxr/tmux-fzf-url: 🚀 Quickly open urls on your terminal screen!</a>  |  <br>  
 <a href="https://github.com/sainnhe/tmux-fzf" target="_blank">sainnhe/tmux-fzf: Use fzf to manage your tmux work environment!</a>  |  <br>  
 <a href="https://github.com/tmux-plugins/tmux-continuum" target="_blank">tmux-plugins/tmux-continuum: Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.</a>  |  <br>  
@@ -731,14 +594,14 @@
 <a href="https://github.com/DannyCork/python-whois" target="_blank">DannyCork/python-whois: Python module/library for retrieving WHOIS information of domains 💻❤</a>  |  <br>  
 <a href="https://github.com/joepie91/python-whois" target="_blank">joepie91/python-whois: A python module for retrieving and parsing WHOIS data</a>  |  <br>  
 <a href="https://github.com/weppos/whois" target="_blank">weppos/whois: An intelligent — pure Ruby — WHOIS client and parser.</a>  |  <br>  
-<a href="https://github.com/UiPath/CoreWF" target="_blank">UiPath/CoreWF: WF runtime ported to work on .NET 6</a>  |  <br>  
+<a href="https://github.com/UiPath/CoreWF" target="_blank">UiPath/CoreWF: WF runtime ported to work on .NET 5</a>  |  <br>  
 <a href="https://github.com/hediet/vscode-drawio" target="_blank">hediet/vscode-drawio: This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.</a>  |  <br>  
 <a href="https://github.com/qw3rtman/git-fire" target="_blank">qw3rtman/git-fire: :fire: Save Your Code in an Emergency</a>  |  <br>  
 <a href="https://github.com/MisterBooo/LeetCodeAnimation" target="_blank">MisterBooo/LeetCodeAnimation: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</a>  |  <br>  
 <a href="https://github.com/lllyasviel/style2paints" target="_blank">lllyasviel/style2paints: sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)</a>  |  <br>  
 <a href="https://github.com/hotvulcan/Thanos.sh" target="_blank">hotvulcan/Thanos.sh: if you are Thanos(root), this command could delete half your files randomly</a>  |  <br>  
 <a href="https://github.com/algorithm-visualizer/algorithm-visualizer" target="_blank">algorithm-visualizer/algorithm-visualizer: :fireworks:Interactive Online Platform that Visualizes Algorithms from Code</a>  |  <br>  
-<a href="https://github.com/GitHubDaily/GitHubDaily" target="_blank">GitHubDaily/GitHubDaily: 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。</a>  |  <br>  
+<a href="https://github.com/GitHubDaily/GitHubDaily" target="_blank">GitHubDaily/GitHubDaily: GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。</a>  |  <br>  
 <a href="https://github.com/bytedance/lightseq" target="_blank">bytedance/lightseq: LightSeq: A High Performance Library for Sequence Processing and Generation</a>  |  <br>  
 <a href="https://github.com/metersphere/metersphere" target="_blank">metersphere/metersphere: MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！</a>  |  <br>  
 <a href="https://github.com/dotnetcore/FastGithub" target="_blank">dotnetcore/FastGithub: github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题</a>  |  <br>  
@@ -748,6 +611,7 @@
 <a href="https://github.com/allenYetu211/player-hls-flv" target="_blank">allenYetu211/player-hls-flv: React video player！support  hls flv.</a>  |  <br>  
 <a href="https://github.com/BingXiong1995/react-flv-player" target="_blank">BingXiong1995/react-flv-player: This is a React flv video player for streaming</a>  |  <br>  
 <a href="https://github.com/GodVvvWei/yolo-flask-html" target="_blank">GodVvvWei/yolo-flask-html: None</a>  |  <br>  
+<a href="https://github.com/shufflewzc/faker2" target="_blank">shufflewzc/faker2: 不知名大佬备份</a>  |  <br>  
 <a href="https://github.com/benbusby/whoogle-search" target="_blank">benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine</a>  |  <br>  
 <a href="https://github.com/xdite/memory-hack" target="_blank">xdite/memory-hack: 打造超人大脑</a>  |  <br>  
 <a href="https://github.com/Fabsqrt/BitTiger" target="_blank">Fabsqrt/BitTiger: 来自硅谷的终身学习大学</a>  |  <br>  
@@ -770,10 +634,10 @@
 <a href="https://github.com/Zulko/moviepy" target="_blank">Zulko/moviepy: Video editing with Python</a>  |  <br>  
 <a href="https://github.com/Saul-Mirone/milkdown" target="_blank">Saul-Mirone/milkdown: 🍼 Plugin driven WYSIWYG  markdown editor framework.</a>  |  <br>  
 <a href="https://github.com/pomber/didact" target="_blank">pomber/didact: A DIY guide to build your own React</a>  |  <br>  
-<a href="https://github.com/fanux/sealos" target="_blank">fanux/sealos: 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳</a>  |  <br>  
+<a href="https://github.com/fanux/sealos" target="_blank">fanux/sealos: 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗</a>  |  <br>  
 <a href="https://github.com/gulpjs/gulp" target="_blank">gulpjs/gulp: A toolkit to automate & enhance your workflow</a>  |  <br>  
 <a href="https://github.com/pytorch/vision" target="_blank">pytorch/vision: Datasets, Transforms and Models specific to Computer Vision</a>  |  <br>  
-<a href="https://github.com/shaka-project/shaka-player" target="_blank">shaka-project/shaka-player: JavaScript player library / DASH & HLS client / MSE-EME player</a>  |  <br>  
+<a href="https://github.com/google/shaka-player" target="_blank">google/shaka-player: JavaScript player library / DASH & HLS client / MSE-EME player</a>  |  <br>  
 <a href="https://github.com/webtorrent/webtorrent" target="_blank">webtorrent/webtorrent: ⚡️ Streaming torrent client for the web</a>  |  <br>  
 <a href="https://github.com/Dash-Industry-Forum/dash.js" target="_blank">Dash-Industry-Forum/dash.js: A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.</a>  |  <br>  
 <a href="https://github.com/video-dev/hls.js" target="_blank">video-dev/hls.js: HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.</a>  |  <br>  
@@ -788,7 +652,7 @@
 <a href="https://github.com/illuspas/Node-Media-Server" target="_blank">illuspas/Node-Media-Server: A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server</a>  |  <br>  
 <a href="https://github.com/winshining/nginx-http-flv-module" target="_blank">winshining/nginx-http-flv-module: Media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache and VHOST (one IP for multi domain names) are supported now.</a>  |  <br>  
 <a href="https://github.com/pingostack/pingos" target="_blank">pingostack/pingos: Based on the NGINX/RTMP/HTTP-FLV/HTTP-TS/HLS/HLS+/DASH/H.264/H.265/AAC/MP3/Live/Record/VOD/Push/Pull/Multiple Processes/Dynamic Configuration/Configuration Variables/Console Interface/Notify</a>  |  <br>  
-<a href="https://github.com/ossrs/srs" target="_blank">ossrs/srs: SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.</a>  |  <br>  
+<a href="https://github.com/ossrs/srs" target="_blank">ossrs/srs: SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.</a>  |  <br>  
 <a href="https://github.com/jwplayer/jwplayer" target="_blank">jwplayer/jwplayer: JW Player is the world's most popular embeddable media player.</a>  |  <br>  
 <a href="https://github.com/videojs/videojs-contrib-hls" target="_blank">videojs/videojs-contrib-hls: HLS library for video.js</a>  |  <br>  
 <a href="https://github.com/mediaelement/mediaelement" target="_blank">mediaelement/mediaelement: HTML5 audio or video player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.</a>  |  <br>  
@@ -796,12 +660,13 @@
 <a href="https://github.com/videojs/video.js" target="_blank">videojs/video.js: Video.js - open source HTML5 & Flash video player</a>  |  <br>  
 <a href="https://github.com/DuanJiaNing/makeaplan_public" target="_blank">DuanJiaNing/makeaplan_public: 【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。</a>  |  <br>  
 <a href="https://github.com/f2e-journey/xueqianban" target="_blank">f2e-journey/xueqianban: 学前班 - 学前端</a>  |  <br>  
+<a href="https://github.com/wbt5/real-url" target="_blank">wbt5/real-url: 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。</a>  |  <br>  
 <a href="https://github.com/getgridea/gridea" target="_blank">getgridea/gridea: ✍️ A static blog writing client (一个静态博客写作客户端)</a>  |  <br>  
 <a href="https://github.com/vaxilu/x-ui" target="_blank">vaxilu/x-ui: 支持多协议多用户的 xray 面板</a>  |  <br>  
 <a href="https://github.com/curlpipe/ox" target="_blank">curlpipe/ox: An independent Rust text editor that runs in your terminal!</a>  |  <br>  
 <a href="https://github.com/ide-stories/vscode-stories" target="_blank">ide-stories/vscode-stories: Stories for VSCode</a>  |  <br>  
 <a href="https://github.com/poloclub/cnn-explainer" target="_blank">poloclub/cnn-explainer: Learning Convolutional Neural Networks with Interactive Visualization.</a>  |  <br>  
-<a href="https://github.com/Semporia/TikTok-Unlock" target="_blank">Semporia/TikTok-Unlock: TikTok免拔卡解锁最新支持 iPhone （iOS 15.4） 、TikTok（V23.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！</a>  |  <br>  
+<a href="https://github.com/Semporia/TikTok-Unlock" target="_blank">Semporia/TikTok-Unlock: TikTok免拔卡解锁最新支持 iPhone （iOS 15.2） 、TikTok（V22.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！</a>  |  <br>  
 <a href="https://github.com/r0eXpeR/Online_Tools" target="_blank">r0eXpeR/Online_Tools: 一些在线的工具,情报资源</a>  |  <br>  
 <a href="https://github.com/seebye/ueberzug" target="_blank">seebye/ueberzug: ueberzug is a command line util which allows to display images in combination with X11</a>  |  <br>  
 <a href="https://github.com/junegunn/vim-plug" target="_blank">junegunn/vim-plug: :hibiscus: Minimalist Vim Plugin Manager</a>  |  <br>  
@@ -815,7 +680,7 @@
 <a href="https://github.com/huggingface/transformers" target="_blank">huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</a>  |  <br>  
 <a href="https://github.com/NLPchina/elasticsearch-sql" target="_blank">NLPchina/elasticsearch-sql: Use SQL to query Elasticsearch</a>  |  <br>  
 <a href="https://github.com/elasticsearch-dump/elasticsearch-dump" target="_blank">elasticsearch-dump/elasticsearch-dump: Import and export tools for elasticsearch</a>  |  <br>  
-<a href="https://github.com/dairongpeng/algorithm-note" target="_blank">dairongpeng/algorithm-note: 该笔记，包含数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。</a>  |  <br>  
+<a href="https://github.com/dairongpeng/algorithm-note" target="_blank">dairongpeng/algorithm-note: 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。</a>  |  <br>  
 <a href="https://github.com/cbamls/AI_Tutorial" target="_blank">cbamls/AI_Tutorial: 精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理</a>  |  <br>  
 <a href="https://github.com/yifeikong/reverse-interview-zh" target="_blank">yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话</a>  |  <br>  
 <a href="https://github.com/viraptor/reverse-interview" target="_blank">viraptor/reverse-interview: Questions to ask the company during your interview</a>  |  <br>  
@@ -829,7 +694,7 @@
 <a href="https://github.com/remram44/regex-cheatsheet" target="_blank">remram44/regex-cheatsheet: Cheatsheet for different regex syntaxes</a>  |  <br>  
 <a href="https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook" target="_blank">PacktPublishing/PyTorch-Computer-Vision-Cookbook: PyTorch Computer Vision Cookbook, Published by Packt</a>  |  <br>  
 <a href="https://github.com/ruyadorno/ipt" target="_blank">ruyadorno/ipt: Interactive Pipe To: The Node.js cli interactive workflow</a>  |  <br>  
-<a href="https://github.com/meilisearch/meilisearch" target="_blank">meilisearch/meilisearch: Powerful, fast, and an easy to use search engine</a>  |  <br>  
+<a href="https://github.com/meilisearch/MeiliSearch" target="_blank">meilisearch/MeiliSearch: Powerful, fast, and an easy to use search engine</a>  |  <br>  
 <a href="https://github.com/nguyenqthai/Algs4Net" target="_blank">nguyenqthai/Algs4Net: A .NET library and tool to use with the Algorithms, 4th Edition textbook by Robert Sedgewick and Kevin Wayne </a>  |  <br>  
 <a href="https://github.com/garyaiki/Scala-Algorithms" target="_blank">garyaiki/Scala-Algorithms: Scala translations of Robert Sedgewick's Java Algorthms</a>  |  <br>  
 <a href="https://github.com/shellfly/algo" target="_blank">shellfly/algo: A Golang library for the textbook Algorithms, 4th edition</a>  |  <br>  
@@ -863,14 +728,15 @@
 <a href="https://github.com/amhndu/SimpleNES" target="_blank">amhndu/SimpleNES: An NES emulator in C++</a>  |  <br>  
 <a href="https://github.com/mitmproxy/mitmproxy" target="_blank">mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.</a>  |  <br>  
 <a href="https://github.com/rubickCenter/rubick" target="_blank">rubickCenter/rubick: 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。</a>  |  <br>  
-<a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java" target="_blank">kunal-kushwaha/DSA-Bootcamp-Java: This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.</a>  |  <br>  
+<a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java" target="_blank">kunal-kushwaha/DSA-Bootcamp-Java: This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.</a>  |  <br>  
 <a href="https://github.com/RasaHQ/rasa" target="_blank">RasaHQ/rasa: 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</a>  |  <br>  
 <a href="https://github.com/alyssaxuu/mapus" target="_blank">alyssaxuu/mapus: A map tool with real-time collaboration 🗺️</a>  |  <br>  
-<a href="https://github.com/datafuselabs/databend" target="_blank">datafuselabs/databend: An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy</a>  |  <br>  
+<a href="https://github.com/datafuselabs/databend" target="_blank">datafuselabs/databend: An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy</a>  |  <br>  
 <a href="https://github.com/ogham/dog" target="_blank">ogham/dog: A command-line DNS client.</a>  |  <br>  
 <a href="https://github.com/ajeetdsouza/zoxide" target="_blank">ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.</a>  |  <br>  
 <a href="https://github.com/ducaale/xh" target="_blank">ducaale/xh: Friendly and fast tool for sending HTTP requests</a>  |  <br>  
 <a href="https://github.com/rs/curlie" target="_blank">rs/curlie: The power of curl, the ease of use of httpie.</a>  |  <br>  
+<a href="https://github.com/httpie/httpie" target="_blank">httpie/httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</a>  |  <br>  
 <a href="https://github.com/orf/gping" target="_blank">orf/gping: Ping, but with a graph</a>  |  <br>  
 <a href="https://github.com/dalance/procs" target="_blank">dalance/procs: A modern replacement for ps written in Rust</a>  |  <br>  
 <a href="https://github.com/sharkdp/hyperfine" target="_blank">sharkdp/hyperfine: A command-line benchmarking tool</a>  |  <br>  
@@ -944,7 +810,7 @@
 <a href="https://github.com/banga/git-split-diffs" target="_blank">banga/git-split-diffs: GitHub style split diffs in your terminal</a>  |  <br>  
 <a href="https://github.com/vercel/hyper" target="_blank">vercel/hyper: A terminal built on web technologies</a>  |  <br>  
 <a href="https://github.com/doublespeakgames/adarkroom" target="_blank">doublespeakgames/adarkroom: A Dark Room - A Minimalist Text Adventure</a>  |  <br>  
-<a href="https://github.com/nocodb/nocodb" target="_blank">nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative</a>  |  <br>  
+<a href="https://github.com/nocodb/nocodb" target="_blank">nocodb/nocodb: :fire: :fire: :fire: Open Source Airtable Alternative</a>  |  <br>  
 <a href="https://github.com/mozilla-mobile/firefox-ios" target="_blank">mozilla-mobile/firefox-ios: Firefox for iOS</a>  |  <br>  
 <a href="https://github.com/QingdaoU/OnlineJudgeFE" target="_blank">QingdaoU/OnlineJudgeFE: A multiple pages app built for OnlineJudge</a>  |  <br>  
 <a href="https://github.com/QingdaoU/Judger" target="_blank">QingdaoU/Judger: Online judge sandbox based on seccomp | OnlineJudge 安全沙箱</a>  |  <br>  
@@ -965,7 +831,7 @@
 <a href="https://github.com/Jack-Cherish/python-spider" target="_blank">Jack-Cherish/python-spider: :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等</a>  |  <br>  
 <a href="https://github.com/lining0806/PythonSpiderNotes" target="_blank">lining0806/PythonSpiderNotes: Python入门网络爬虫之精华版</a>  |  <br>  
 <a href="https://github.com/wistbean/learn_python3_spider" target="_blank">wistbean/learn_python3_spider: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等</a>  |  <br>  
-<a href="https://github.com/ben1234560/AiLearning-Theory-Applying" target="_blank">ben1234560/AiLearning-Theory-Applying: 快速上手Ai理论及应用实战：基础知识、ML、DL、NLP-BERT、竞赛。含大量注释及数据集，力求每一位能看懂并复现。</a>  |  <br>  
+<a href="https://github.com/ben1234560/AiLearning-Theory-Applying" target="_blank">ben1234560/AiLearning-Theory-Applying: 快速上手Ai理论及应用实战：基础知识Basic knowledge、机器学习MachineLearning、深度学习DeepLearning2、自然语言处理BERT，持续更新中。含大量注释及数据集，力求每一位能看懂并复现。</a>  |  <br>  
 <a href="https://github.com/csr632/awesome-learning-resources" target="_blank">csr632/awesome-learning-resources: 收集最优质的学习资料。专治“学习资料不足恐惧症”。</a>  |  <br>  
 <a href="https://github.com/Achrou/goindex-theme-acrou" target="_blank">Achrou/goindex-theme-acrou: This is a goindex theme.一个goindex的扩展主题。</a>  |  <br>  
 <a href="https://github.com/valentjn/vscode-ltex" target="_blank">valentjn/vscode-ltex: LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others</a>  |  <br>  
@@ -990,32 +856,33 @@
 <a href="https://github.com/ecomfe/vue-echarts" target="_blank">ecomfe/vue-echarts: Apache ECharts component for Vue.js.</a>  |  <br>  
 <a href="https://github.com/apache/echarts" target="_blank">apache/echarts: Apache ECharts is a powerful, interactive charting and data visualization library for browser</a>  |  <br>  
 <a href="https://github.com/ObjTube/front-end-roadmap" target="_blank">ObjTube/front-end-roadmap: Tell you how to learn front end development ~</a>  |  <br>  
-<a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022</a>  |  <br>  
+<a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2021</a>  |  <br>  
 <a href="https://github.com/blueedgetechno/win11React" target="_blank">blueedgetechno/win11React: Windows 11 in React 💻🌈⚡</a>  |  <br>  
 <a href="https://github.com/gwuhaolin/livego" target="_blank">gwuhaolin/livego: live video streaming server in golang</a>  |  <br>  
-<a href="https://github.com/withastro/astro" target="_blank">withastro/astro: Build fast websites, faster. 🚀🧑‍🚀✨</a>  |  <br>  
+<a href="https://github.com/withastro/astro" target="_blank">withastro/astro: 🚀🧑‍🚀 Keep your eyes to the skies, astronauts</a>  |  <br>  
 <a href="https://github.com/graykode/nlp-roadmap" target="_blank">graykode/nlp-roadmap: ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP</a>  |  <br>  
 <a href="https://github.com/DroidsOnRoids/flutter-roadmap" target="_blank">DroidsOnRoids/flutter-roadmap: Roadmap for Flutter developers in 2020</a>  |  <br>  
 <a href="https://github.com/s4kibs4mi/java-developer-roadmap" target="_blank">s4kibs4mi/java-developer-roadmap: Roadmap to becoming a Java developer in 2021</a>  |  <br>  
-<a href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" target="_blank">MoienTajik/AspNetCore-Developer-Roadmap: Roadmap to becoming an ASP.NET Core developer in 2022</a>  |  <br>  
+<a href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" target="_blank">MoienTajik/AspNetCore-Developer-Roadmap: Roadmap to becoming an ASP.NET Core developer in 2021</a>  |  <br>  
 <a href="https://github.com/anshulrgoyal/rust-web-developer-roadmap" target="_blank">anshulrgoyal/rust-web-developer-roadmap: Roadmap to becoming a Rust Web Developer in 2021</a>  |  <br>  
 <a href="https://github.com/adam-golab/react-developer-roadmap" target="_blank">adam-golab/react-developer-roadmap: Roadmap to becoming a React developer</a>  |  <br>  
 <a href="https://github.com/Alikhll/golang-developer-roadmap" target="_blank">Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2020</a>  |  <br>  
 <a href="https://github.com/fityanos/awesome-quality-assurance-roadmap" target="_blank">fityanos/awesome-quality-assurance-roadmap: :books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:</a>  |  <br>  
 <a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap" target="_blank">BohdanOrlov/iOS-Developer-Roadmap: Roadmap to becoming an iOS developer in 2018.</a>  |  <br>  
 <a href="https://github.com/mobile-roadmap/android-developer-roadmap" target="_blank">mobile-roadmap/android-developer-roadmap: Android Developer Roadmap 2020</a>  |  <br>  
-<a href="https://github.com/apachecn/ailearning" target="_blank">apachecn/ailearning: AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2</a>  |  <br>  
+<a href="https://github.com/apachecn/AiLearning" target="_blank">apachecn/AiLearning: AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP</a>  |  <br>  
 <a href="https://github.com/MorvanZhou/tutorials" target="_blank">MorvanZhou/tutorials: 机器学习相关教程</a>  |  <br>  
 <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers" target="_blank">ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.</a>  |  <br>  
 <a href="https://github.com/miloyip/game-programmer" target="_blank">miloyip/game-programmer: A Study Path for Game Programmer</a>  |  <br>  
-<a href="https://github.com/utilForever/game-developer-roadmap" target="_blank">utilForever/game-developer-roadmap: Roadmap to becoming a game developer in 2022</a>  |  <br>  
+<a href="https://github.com/utilForever/game-developer-roadmap" target="_blank">utilForever/game-developer-roadmap: Roadmap to becoming a game developer in 2020</a>  |  <br>  
 <a href="https://github.com/jina-ai/jina" target="_blank">jina-ai/jina: Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data</a>  |  <br>  
 <a href="https://github.com/ParthJadhav/Tkinter-Designer" target="_blank">ParthJadhav/Tkinter-Designer: Create Beautiful Tkinter GUIs by Drag and Drop ☄️</a>  |  <br>  
 <a href="https://github.com/facebookresearch/AugLy" target="_blank">facebookresearch/AugLy: A data augmentations library for audio, image, text, and video.</a>  |  <br>  
 <a href="https://github.com/offa/android-foss" target="_blank">offa/android-foss: A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.</a>  |  <br>  
 <a href="https://github.com/nativefier/nativefier" target="_blank">nativefier/nativefier: Make any web page a desktop application</a>  |  <br>  
+<a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">jaywcjlove/awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories.</a>  |  <br>  
 <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books" target="_blank">cat-milk/Anime-Girls-Holding-Programming-Books: Anime Girls Holding Programming Books</a>  |  <br>  
-<a href="https://github.com/nikolaydubina/go-recipes" target="_blank">nikolaydubina/go-recipes: 🪄 Collection of handy tools for Go projects</a>  |  <br>  
+<a href="https://github.com/nikolaydubina/go-recipes" target="_blank">nikolaydubina/go-recipes: 🪄 Handy commands to run in Go projects</a>  |  <br>  
 <a href="https://github.com/earthly/earthly" target="_blank">earthly/earthly: Repeatable builds</a>  |  <br>  
 <a href="https://github.com/michaelliao/learn-python3" target="_blank">michaelliao/learn-python3: Learn Python 3 Sample Code</a>  |  <br>  
 <a href="https://github.com/zenghongtu/saladict-desktop" target="_blank">zenghongtu/saladict-desktop: ✨✨桌面划词与翻译工具，聚合了 N 多词典，功能强大，支持 Windows 、 Mac 和 Linux。</a>  |  <br>  
@@ -1028,7 +895,7 @@
 <a href="https://github.com/hexojs/hexo" target="_blank">hexojs/hexo: A fast, simple & powerful blog framework, powered by Node.js.</a>  |  <br>  
 <a href="https://github.com/mermaid-js/mermaid" target="_blank">mermaid-js/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown</a>  |  <br>  
 <a href="https://github.com/yujiangshui/A-Programmers-Guide-to-English" target="_blank">yujiangshui/A-Programmers-Guide-to-English: 专为程序员编写的英语学习指南 v1.2。在线版本请点 -</a>  |  <br>  
-<a href="https://github.com/coder/code-server" target="_blank">coder/code-server: VS Code in the browser</a>  |  <br>  
+<a href="https://github.com/cdr/code-server" target="_blank">cdr/code-server: VS Code in the browser</a>  |  <br>  
 <a href="https://github.com/bannedbook/fanqiang" target="_blank">bannedbook/fanqiang: 翻墙-科学上网</a>  |  <br>  
 <a href="https://github.com/fqrouter/fqrouter" target="_blank">fqrouter/fqrouter: anti-GFW router</a>  |  <br>  
 <a href="https://github.com/it-andy-hou/fq" target="_blank">it-andy-hou/fq: :earth_americas: :statue_of_liberty: 翻墙软件不完全汇总</a>  |  <br>  
@@ -1042,7 +909,7 @@
 <a href="https://github.com/Th3Wall/Fakeflix" target="_blank">Th3Wall/Fakeflix: Not the usual clone that you can find on the web.</a>  |  <br>  
 <a href="https://github.com/gildas-lormeau/SingleFile" target="_blank">gildas-lormeau/SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file</a>  |  <br>  
 <a href="https://github.com/babel/babel" target="_blank">babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.</a>  |  <br>  
-<a href="https://github.com/ant-design/ant-design-mobile" target="_blank">ant-design/ant-design-mobile: Essential UI blocks for building mobile web apps.</a>  |  <br>  
+<a href="https://github.com/ant-design/ant-design-mobile" target="_blank">ant-design/ant-design-mobile: Fluent and powerful mobile component library based on React.</a>  |  <br>  
 <a href="https://github.com/facebook/react" target="_blank">facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.</a>  |  <br>  
 <a href="https://github.com/AnthonyDiGirolamo/todotxt-machine" target="_blank">AnthonyDiGirolamo/todotxt-machine: an interactive terminal based todo.txt file editor with an interface similar to mutt</a>  |  <br>  
 <a href="https://github.com/todotxt/todo.txt" target="_blank">todotxt/todo.txt: ‼️ A complete primer on the whys and hows of todo.txt.</a>  |  <br>  
@@ -1059,7 +926,7 @@
 <a href="https://github.com/ArchiveBox/ArchiveBox" target="_blank">ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...</a>  |  <br>  
 <a href="https://github.com/junegunn/fzf" target="_blank">junegunn/fzf: :cherry_blossom: A command-line fuzzy finder</a>  |  <br>  
 <a href="https://github.com/storybookjs/storybook" target="_blank">storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!</a>  |  <br>  
-<a href="https://github.com/XMuli/chinessChess" target="_blank">XMuli/chinessChess: Cross-platform and online battle platform game based on Qt: Chinese Chess</a>  |  <br>  
+<a href="https://github.com/xmuli/chinessChess" target="_blank">xmuli/chinessChess: Cross-platform and online battle platform game based on Qt: Chinese Chess</a>  |  <br>  
 <a href="https://github.com/humhub/humhub" target="_blank">humhub/humhub: HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.</a>  |  <br>  
 <a href="https://github.com/nginx/nginx" target="_blank">nginx/nginx: An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html</a>  |  <br>  
 <a href="https://github.com/nopSolutions/nopCommerce" target="_blank">nopSolutions/nopCommerce: The most popular open-source eCommerce shopping cart solution based on ASP.NET Core</a>  |  <br>  
@@ -1100,14 +967,14 @@
 <a href="https://github.com/Summer-andy/chrome-extensions-searchReplace" target="_blank">Summer-andy/chrome-extensions-searchReplace: search and replace  🎉 .</a>  |  <br>  
 <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time</a>  |  <br>  
 <a href="https://github.com/yihong0618/GitHubPoster" target="_blank">yihong0618/GitHubPoster: Make everything a GitHub svg poster and Skyline!</a>  |  <br>  
-<a href="https://github.com/typicode/lowdb" target="_blank">typicode/lowdb: Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)</a>  |  <br>  
+<a href="https://github.com/typicode/lowdb" target="_blank">typicode/lowdb: Simple to use local JSON database (supports Node, Electron and the browser)</a>  |  <br>  
 <a href="https://github.com/B-Software/Ward" target="_blank">B-Software/Ward: Server dashboard</a>  |  <br>  
 <a href="https://github.com/chriskiehl/GooeyExamples" target="_blank">chriskiehl/GooeyExamples: Example programs to Demonstrate Gooey's functionality </a>  |  <br>  
 <a href="https://github.com/chriskiehl/Gooey" target="_blank">chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line</a>  |  <br>  
 <a href="https://github.com/doczjs/docz" target="_blank">doczjs/docz: ✍ It has never been so easy to document your things!</a>  |  <br>  
-<a href="https://github.com/Textualize/rich" target="_blank">Textualize/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.</a>  |  <br>  
+<a href="https://github.com/willmcgugan/rich" target="_blank">willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.</a>  |  <br>  
 <a href="https://github.com/langren1353/GM_script" target="_blank">langren1353/GM_script: 我就是来分享脚本玩玩的</a>  |  <br>  
-<a href="https://github.com/leachim6/hello-world" target="_blank">leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!</a>  |  <br>  
+<a href="https://github.com/leachim6/hello-world" target="_blank">leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!</a>  |  <br>  
 <a href="https://github.com/Tencent/secguide" target="_blank">Tencent/secguide: 面向开发人员梳理的代码安全指南</a>  |  <br>  
 <a href="https://github.com/rustdesk/rustdesk" target="_blank">rustdesk/rustdesk: Yet another remote desktop software</a>  |  <br>  
 <a href="https://github.com/forem/forem" target="_blank">forem/forem: For empowering community 🌱</a>  |  <br>  
@@ -1144,8 +1011,8 @@
 <a href="https://github.com/libfuse/sshfs" target="_blank">libfuse/sshfs: A network filesystem client to connect to SSH servers</a>  |  <br>  
 <a href="https://github.com/santinic/how2" target="_blank">santinic/how2: stackoverflow from the terminal</a>  |  <br>  
 <a href="https://github.com/shimohq/chinese-programmer-wrong-pronunciation" target="_blank">shimohq/chinese-programmer-wrong-pronunciation: 中国程序员容易发音错误的单词</a>  |  <br>  
-<a href="https://github.com/winfsp/winfsp" target="_blank">winfsp/winfsp: Windows File System Proxy - FUSE for Windows</a>  |  <br>  
-<a href="https://github.com/winfsp/sshfs-win" target="_blank">winfsp/sshfs-win: SSHFS For Windows</a>  |  <br>  
+<a href="https://github.com/billziss-gh/winfsp" target="_blank">billziss-gh/winfsp: Windows File System Proxy - FUSE for Windows</a>  |  <br>  
+<a href="https://github.com/billziss-gh/sshfs-win" target="_blank">billziss-gh/sshfs-win: SSHFS For Windows</a>  |  <br>  
 <a href="https://github.com/kapitainsky/RcloneBrowser" target="_blank">kapitainsky/RcloneBrowser: Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.</a>  |  <br>  
 <a href="https://github.com/1265578519/ShanaEncoder" target="_blank">1265578519/ShanaEncoder: ShanaEncoder，最强的视频压制软件，支持CPU和GPU同时工作，速度快，清晰度高，B站指定压制工具</a>  |  <br>  
 <a href="https://github.com/pystardust/ytfzf" target="_blank">pystardust/ytfzf: A posix script to find and watch youtube videos from the terminal. (Without API)</a>  |  <br>  
@@ -1166,7 +1033,7 @@
 <a href="https://github.com/plexdrive/plexdrive" target="_blank">plexdrive/plexdrive: Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)</a>  |  <br>  
 <a href="https://github.com/yudai/gotty" target="_blank">yudai/gotty: Share your terminal as a web application</a>  |  <br>  
 <a href="https://github.com/programthink/books" target="_blank">programthink/books: 【编程随想】收藏的电子书清单（多个学科，含下载链接）</a>  |  <br>  
-<a href="https://github.com/jgraph/docker-drawio" target="_blank">jgraph/docker-drawio: Dockerized draw.io based on tomcat:10.0.12-jre11-temurin official image.</a>  |  <br>  
+<a href="https://github.com/jgraph/docker-drawio" target="_blank">jgraph/docker-drawio: Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.</a>  |  <br>  
 <a href="https://github.com/adam-p/markdown-here" target="_blank">adam-p/markdown-here: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</a>  |  <br>  
 <a href="https://github.com/twitter/twemoji" target="_blank">twitter/twemoji: Emoji for everyone. https://twemoji.twitter.com/</a>  |  <br>  
 <a href="https://github.com/microsoft/playwright" target="_blank">microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. </a>  |  <br>  
@@ -1202,7 +1069,7 @@
 <a href="https://github.com/Miserlou/Zappa" target="_blank">Miserlou/Zappa: Serverless Python</a>  |  <br>  
 <a href="https://github.com/gauseen/faster-hosts" target="_blank">gauseen/faster-hosts: FasterHosts 加快 GitHub 资源访问速度的 Chrome 插件</a>  |  <br>  
 <a href="https://github.com/oldj/SwitchHosts" target="_blank">oldj/SwitchHosts: Switch hosts quickly!</a>  |  <br>  
-<a href="https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA" target="_blank">xiaoxiunique/awesome-IntelliJ-IDEA: 公众号《玩转IDEA》只分享 「IntelliJ IDEA」</a>  |  <br>  
+<a href="https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA" target="_blank">xiaoxiunique/awesome-IntelliJ-IDEA: 用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。</a>  |  <br>  
 <a href="https://github.com/zhaojun1998/zfile" target="_blank">zhaojun1998/zfile: 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai</a>  |  <br>  
 <a href="https://github.com/ossu/computer-science" target="_blank">ossu/computer-science: :mortar_board: Path to a free self-taught education in Computer Science!</a>  |  <br>  
 <a href="https://github.com/google/blockly" target="_blank">google/blockly: The web-based visual programming editor.</a>  |  <br>  
@@ -1229,13 +1096,13 @@
 <a href="https://github.com/readthedocs/readthedocs.org" target="_blank">readthedocs/readthedocs.org: The source code that powers readthedocs.org</a>  |  <br>  
 <a href="https://github.com/ssshooter/mind-elixir-core" target="_blank">ssshooter/mind-elixir-core: Mind-elixir is a framework agnostic mind map core</a>  |  <br>  
 <a href="https://github.com/isnowfy/snownlp" target="_blank">isnowfy/snownlp: Python library for processing Chinese text</a>  |  <br>  
-<a href="https://github.com/tabler/tabler-icons" target="_blank">tabler/tabler-icons: A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.</a>  |  <br>  
+<a href="https://github.com/tabler/tabler-icons" target="_blank">tabler/tabler-icons: A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.</a>  |  <br>  
 <a href="https://github.com/cuiocean/ZY-Player" target="_blank">cuiocean/ZY-Player: ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞</a>  |  <br>  
 <a href="https://github.com/dabeaz-course/practical-python" target="_blank">dabeaz-course/practical-python: Practical Python Programming (course by @dabeaz)</a>  |  <br>  
 <a href="https://github.com/wagtail/wagtail" target="_blank">wagtail/wagtail: A Django content management system focused on flexibility and user experience</a>  |  <br>  
 <a href="https://github.com/microsoft/playwright-python" target="_blank">microsoft/playwright-python: Python version of the Playwright testing and automation library.</a>  |  <br>  
 <a href="https://github.com/asciinema/asciinema" target="_blank">asciinema/asciinema: Terminal session recorder 📹</a>  |  <br>  
-<a href="https://github.com/the1812/Bilibili-Evolved" target="_blank">the1812/Bilibili-Evolved: 强大的哔哩哔哩增强脚本</a>  |  <br>  
+<a href="https://github.com/the1812/Bilibili-Evolved" target="_blank">the1812/Bilibili-Evolved: 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持</a>  |  <br>  
 <a href="https://github.com/nakabonne/ali" target="_blank">nakabonne/ali: Generate HTTP load and plot the results in real-time</a>  |  <br>  
 <a href="https://github.com/sogou/workflow" target="_blank">sogou/workflow: C++ Parallel Computing and Asynchronous Networking Engine</a>  |  <br>  
 <a href="https://github.com/htop-dev/htop" target="_blank">htop-dev/htop: htop - an interactive process viewer</a>  |  <br>  
@@ -1247,6 +1114,7 @@
 <a href="https://github.com/justinzm/gopup" target="_blank">justinzm/gopup: 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…</a>  |  <br>  
 <a href="https://github.com/alyssaxuu/screenity" target="_blank">alyssaxuu/screenity: The most powerful screen recorder & annotation tool for Chrome 🎥</a>  |  <br>  
 <a href="https://github.com/syncthing/syncthing" target="_blank">syncthing/syncthing: Open Source Continuous File Synchronization</a>  |  <br>  
+<a href="https://github.com/inlets/inlets-archived" target="_blank">inlets/inlets-archived: Cloud Native Tunnel, now inlets PRO</a>  |  <br>  
 <a href="https://github.com/BluePointLilac/ContextMenuManager" target="_blank">BluePointLilac/ContextMenuManager: 🖱️ 纯粹的Windows右键菜单管理程序</a>  |  <br>  
 <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">Charmve/Surface-Defect-Detection: 📈 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.  </a>  |  <br>  
 <a href="https://github.com/adamian98/pulse" target="_blank">adamian98/pulse: PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models</a>  |  <br>  
@@ -1261,7 +1129,7 @@
 <a href="https://github.com/myliang/x-spreadsheet" target="_blank">myliang/x-spreadsheet: A web-based JavaScript（canvas） spreadsheet</a>  |  <br>  
 <a href="https://github.com/MarkerHub/vueblog" target="_blank">MarkerHub/vueblog: 一个前后端分离的简单博客案例，适合刚入门vue，学前后端分离的童鞋！</a>  |  <br>  
 <a href="https://github.com/fyne-io/fyne" target="_blank">fyne-io/fyne: Cross platform GUI in Go inspired by Material Design</a>  |  <br>  
-<a href="https://github.com/RangiLyu/nanodet" target="_blank">RangiLyu/nanodet: NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥</a>  |  <br>  
+<a href="https://github.com/RangiLyu/nanodet" target="_blank">RangiLyu/nanodet: ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥</a>  |  <br>  
 <a href="https://github.com/scutan90/DeepLearning-500-questions" target="_blank">scutan90/DeepLearning-500-questions: 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06</a>  |  <br>  
 <a href="https://github.com/wordshub/free-font" target="_blank">wordshub/free-font: 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...</a>  |  <br>  
 <a href="https://github.com/madawei2699/awesome-seo" target="_blank">madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization</a>  |  <br>  
@@ -1274,6 +1142,7 @@
 <a href="https://github.com/tsenart/vegeta" target="_blank">tsenart/vegeta: HTTP load testing tool and library. It's over 9000!</a>  |  <br>  
 <a href="https://github.com/datastacktv/data-engineer-roadmap" target="_blank">datastacktv/data-engineer-roadmap: Roadmap to becoming a data engineer in 2021</a>  |  <br>  
 <a href="https://github.com/psf/requests-html" target="_blank">psf/requests-html: Pythonic HTML Parsing for Humans™</a>  |  <br>  
+<a href="https://github.com/rby90/project-based-tutorials-in-c" target="_blank">rby90/project-based-tutorials-in-c: A curated list of project-based tutorials in C</a>  |  <br>  
 <a href="https://github.com/laurent22/joplin" target="_blank">laurent22/joplin: Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/</a>  |  <br>  
 <a href="https://github.com/microsoft/azuredatastudio" target="_blank">microsoft/azuredatastudio: Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.</a>  |  <br>  
 <a href="https://github.com/nbarkhina/MarioHTML" target="_blank">nbarkhina/MarioHTML: My take on an iconic game written in TypeScript</a>  |  <br>  
@@ -1296,28 +1165,29 @@
 <a href="https://github.com/jesseduffield/lazygit" target="_blank">jesseduffield/lazygit: simple terminal UI for git commands</a>  |  <br>  
 <a href="https://github.com/sorenisanerd/gotty" target="_blank">sorenisanerd/gotty: Share your terminal as a web application</a>  |  <br>  
 <a href="https://github.com/slidevjs/container" target="_blank">slidevjs/container: Container building scripts for Slidev</a>  |  <br>  
-<a href="https://github.com/google/zx" target="_blank">google/zx: Replace Bash with JavaScript</a>  |  <br>  
+<a href="https://github.com/google/zx" target="_blank">google/zx: A tool for writing better scripts</a>  |  <br>  
 <a href="https://github.com/hustcc/PyG2Plot" target="_blank">hustcc/PyG2Plot: 🎨 Python3 binding for @AntV/G2Plot Plotting Library .</a>  |  <br>  
 <a href="https://github.com/gchenfc/sci-hub-now" target="_blank">gchenfc/sci-hub-now: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅</a>  |  <br>  
 <a href="https://github.com/freereadorg/awesome-libgen" target="_blank">freereadorg/awesome-libgen: 😎 Awesome list of Library Genesis, the world's largest free library.</a>  |  <br>  
 <a href="https://github.com/alibaba/ChatUI" target="_blank">alibaba/ChatUI: The UI design language and React library for Conversational UI</a>  |  <br>  
 <a href="https://github.com/ferredoxin/QNotified" target="_blank">ferredoxin/QNotified: 一个旨在使QQ变得更好用的开源Xposed模块</a>  |  <br>  
 <a href="https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1" target="_blank">YatSenOS/YatSenOS-Tutorial-Volume-1: A Simple 32-bit OS lab tutorial.</a>  |  <br>  
-<a href="https://github.com/liuli-io/liuli" target="_blank">liuli-io/liuli: 构建一个多源、干净、个性化的阅读环境</a>  |  <br>  
-<a href="https://github.com/siyuan-note/siyuan" target="_blank">siyuan-note/siyuan: 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。</a>  |  <br>  
+<a href="https://github.com/howie6879/2c" target="_blank">howie6879/2c: 构建一个多源（公众号、RSS）、干净、个性化的阅读环境</a>  |  <br>  
+<a href="https://github.com/siyuan-note/siyuan" target="_blank">siyuan-note/siyuan: 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.</a>  |  <br>  
 <a href="https://github.com/hackmdio/codimd" target="_blank">hackmdio/codimd: CodiMD - Realtime collaborative markdown notes on all platforms.</a>  |  <br>  
 <a href="https://github.com/talebook/talebook" target="_blank">talebook/talebook: A simple books website. 一个简单的在线版个人书库。</a>  |  <br>  
 <a href="https://github.com/janeczku/calibre-web" target="_blank">janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database</a>  |  <br>  
-<a href="https://github.com/theonedev/onedev" target="_blank">theonedev/onedev: Self-hosted Git Server with Kanban and CI/CD</a>  |  <br>  
-<a href="https://github.com/cloudreve/Cloudreve" target="_blank">cloudreve/Cloudreve: 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)</a>  |  <br>  
+<a href="https://github.com/theonedev/onedev" target="_blank">theonedev/onedev: Super Easy All-In-One DevOps Platform</a>  |  <br>  
+<a href="https://github.com/cloudreve/Cloudreve" target="_blank">cloudreve/Cloudreve: 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)</a>  |  <br>  
 <a href="https://github.com/Orc/discount" target="_blank">Orc/discount: My C implementation of John Gruber's Markdown markup language</a>  |  <br>  
 <a href="https://github.com/YunYouJun/yunyoujun.github.io" target="_blank">YunYouJun/yunyoujun.github.io: 🌐 云游君的小站，一个自言自语的地方。</a>  |  <br>  
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts" target="_blank">GrowingGit/GitHub-Chinese-Top-Charts: :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</a>  |  <br>  
+<a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts" target="_blank">kon9chunkit/GitHub-Chinese-Top-Charts: :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目，无语言障碍地、更高效地吸收国人优秀经验成果；榜单周更，敬请关注！</a>  |  <br>  
 <a href="https://github.com/xjh22222228/git-manual" target="_blank">xjh22222228/git-manual: :octocat:  git command reference manual</a>  |  <br>  
 <a href="https://github.com/mylxsw/growing-up" target="_blank">mylxsw/growing-up: 程序猿成长计划</a>  |  <br>  
 <a href="https://github.com/liyupi/free-programming-resources" target="_blank">liyupi/free-programming-resources: 💎 免费的编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java \ Python \ C++ \ JavaScript \ Golang \ 前端 \ 后端等）的学习路线、贴心教程、项目实战、编程书籍、面试合集、实用资源等，对程序员非常有帮助！</a>  |  <br>  
 <a href="https://github.com/jackfrued/Python-100-Days" target="_blank">jackfrued/Python-100-Days: Python - 100天从新手到大师</a>  |  <br>  
 <a href="https://github.com/gto76/python-cheatsheet" target="_blank">gto76/python-cheatsheet: Comprehensive Python Cheatsheet</a>  |  <br>  
+<a href="https://github.com/google/python-fire" target="_blank">google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</a>  |  <br>  
 <a href="https://github.com/sourcegraph/sourcegraph" target="_blank">sourcegraph/sourcegraph: Universal code search (self-hosted)</a>  |  <br>  
 <a href="https://github.com/fatedier/frp" target="_blank">fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</a>  |  <br>  
 <a href="https://github.com/xjh22222228/nav" target="_blank">xjh22222228/nav: 🔍 发现导航 , 打造最强静态导航网站(支持SEO)  | Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing</a>  |  <br>  
@@ -1342,8 +1212,8 @@
 <a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">521xueweihan/HelloGitHub: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</a>  |  <br>  
 <a href="https://github.com/muesli/duf" target="_blank">muesli/duf: Disk Usage/Free Utility - a better 'df' alternative</a>  |  <br>  
 <a href="https://github.com/File-New-Project/EarTrumpet" target="_blank">File-New-Project/EarTrumpet: EarTrumpet - Volume Control for Windows</a>  |  <br>  
-<a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap" target="_blank">AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2022</a>  |  <br>  
-<a href="https://github.com/files-community/Files" target="_blank">files-community/Files: A modern file manager for Windows</a>  |  <br>  
+<a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap" target="_blank">AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2021</a>  |  <br>  
+<a href="https://github.com/files-community/Files" target="_blank">files-community/Files: A modern file manager that pushes the boundaries of the platform.</a>  |  <br>  
 <a href="https://github.com/GitSquared/edex-ui" target="_blank">GitSquared/edex-ui: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.</a>  |  <br>  
 <a href="https://github.com/brunosimon/folio-2019" target="_blank">brunosimon/folio-2019: None</a>  |  <br>  
 <a href="https://github.com/WinMerge/winmerge" target="_blank">WinMerge/winmerge: WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.</a>  |  <br>  
@@ -1365,7 +1235,7 @@
 <a href="https://github.com/google/automl" target="_blank">google/automl: Google Brain AutoML</a>  |  <br>  
 <a href="https://github.com/greyireland/algorithm-pattern" target="_blank">greyireland/algorithm-pattern: 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~</a>  |  <br>  
 <a href="https://github.com/oschina/kooder" target="_blank">oschina/kooder: 🔍An open source GitLab/Gitee/Gitea code search tool. Kooder 是一个为 Gitee/GitLab 开发的开源代码搜索工具，这是一个镜像仓库，主仓库在 Gitee。</a>  |  <br>  
-<a href="https://github.com/amusi/CVPR2022-Papers-with-Code" target="_blank">amusi/CVPR2022-Papers-with-Code: CVPR 2022 论文和开源项目合集</a>  |  <br>  
+<a href="https://github.com/amusi/CVPR2021-Papers-with-Code" target="_blank">amusi/CVPR2021-Papers-with-Code: CVPR 2021 论文和开源项目合集</a>  |  <br>  
 <a href="https://github.com/tj/n" target="_blank">tj/n: Node version management</a>  |  <br>  
 <a href="https://github.com/stanzhai/be-a-professional-programmer" target="_blank">stanzhai/be-a-professional-programmer: 成为专业程序员路上用到的各种优秀资料、神器及框架</a>  |  <br>  
 <a href="https://github.com/soulteary/docker-gitbook-pdf-generator" target="_blank">soulteary/docker-gitbook-pdf-generator: 如果你想使用 GitBook 生成 PDF ，又不想折腾，使用这个项目就对啦！</a>  |  <br>  
@@ -1376,6 +1246,7 @@
 <a href="https://github.com/alphacep/vosk-api" target="_blank">alphacep/vosk-api: Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</a>  |  <br>  
 <a href="https://github.com/docker/getting-started" target="_blank">docker/getting-started: Getting started with Docker</a>  |  <br>  
 <a href="https://github.com/vinta/awesome-python" target="_blank">vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources</a>  |  <br>  
+<a href="https://github.com/docsifyjs/awesome-docsify" target="_blank">docsifyjs/awesome-docsify: 💖 A curated list of awesome things related to docsify</a>  |  <br>  
 <a href="https://github.com/jesseduffield/lazydocker" target="_blank">jesseduffield/lazydocker: The lazier way to manage everything docker</a>  |  <br>  
 <a href="https://github.com/liyupi/code-nav" target="_blank">liyupi/code-nav: 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！</a>  |  <br>  
 <a href="https://github.com/fastai/fastai" target="_blank">fastai/fastai: The fastai deep learning library</a>  |  <br>  
@@ -1397,7 +1268,7 @@
 <a href="https://github.com/sharkdp/fd" target="_blank">sharkdp/fd: A simple, fast and user-friendly alternative to 'find'</a>  |  <br>  
 <a href="https://github.com/HubDou/vue-django" target="_blank">HubDou/vue-django: Integrate Django + Vue.js framework to quickly build web projects</a>  |  <br>  
 <a href="https://github.com/dylang/node-rss" target="_blank">dylang/node-rss: RSS feed generator for Node.</a>  |  <br>  
-<a href="https://github.com/dianbanjiu/rss_everyday" target="_blank">dianbanjiu/rss_everyday: 每天向你推送你喜欢的文章</a>  |  <br>  
+<a href="https://github.com/GuangzheJiang/rss_everyday" target="_blank">GuangzheJiang/rss_everyday: 每天向你推送你喜欢的文章</a>  |  <br>  
 <a href="https://github.com/juewuy/ShellClash" target="_blank">juewuy/ShellClash: One-click deployment and management of Clash services using Shell scripts in Linux environment</a>  |  <br>  
 <a href="https://github.com/yuanlam/Clash-Linux" target="_blank">yuanlam/Clash-Linux: 记录Linux下折腾Clash的步骤</a>  |  <br>  
 <a href="https://github.com/guanguans/favorite-link" target="_blank">guanguans/favorite-link: ❤️ 每日收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅</a>  |  <br>  
@@ -1408,10 +1279,11 @@
 <a href="https://github.com/flutter/flutter" target="_blank">flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond</a>  |  <br>  
 <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard" target="_blank">abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard: Responsive Admin Panel or Dashboard using Flutter</a>  |  <br>  
 <a href="https://github.com/observerss/ngender" target="_blank">observerss/ngender: 根据姓名来判断性别</a>  |  <br>  
-<a href="https://github.com/zonemeen/vue-node-blog" target="_blank">zonemeen/vue-node-blog: 🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin</a>  |  <br>  
+<a href="https://github.com/miqilin21/vue-blog" target="_blank">miqilin21/vue-blog: 🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin</a>  |  <br>  
 <a href="https://github.com/yongzhuo/nlp_xiaojiang" target="_blank">yongzhuo/nlp_xiaojiang: 自然语言处理（nlp），小姜机器人（闲聊检索式chatbot），BERT句向量-相似度（Sentence Similarity），XLNET句向量-相似度（text xlnet embedding），文本分类（Text classification）， 实体提取（ner，bert+bilstm+crf），数据增强（text augment, data enhance），同义句同义词生成，句子主干提取（mainpart），中文汉语短文本相似度，文本特征工程，keras-http-service调用</a>  |  <br>  
 <a href="https://github.com/hilongjw/vue-zhihu-daily" target="_blank">hilongjw/vue-zhihu-daily: zhihu daily spa with vue  线上演示在这里 ----</a>  |  <br>  
 <a href="https://github.com/ustbhuangyi/vue-sell" target="_blank">ustbhuangyi/vue-sell: :rice: Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html</a>  |  <br>  
+<a href="https://github.com/satrom/V2SSR" target="_blank">satrom/V2SSR: V2ray,SS,SSR 订阅链接（维护更新中....）</a>  |  <br>  
 <a href="https://github.com/javaswing/NeteaseCloudWebApp" target="_blank">javaswing/NeteaseCloudWebApp: This is a vue for NeteaseCloud projects!</a>  |  <br>  
 <a href="https://github.com/aespresso/chinese_sentiment" target="_blank">aespresso/chinese_sentiment: 用tensorflow进行中文自然语言处理的情感分析</a>  |  <br>  
 <a href="https://github.com/hangjob/vue-admin" target="_blank">hangjob/vue-admin: 一份完整的vue-cli3项目基础配置项,可用作于PC网站开发、移动端网页，后台管理系统</a>  |  <br>  
@@ -1448,7 +1320,7 @@
 <a href="https://github.com/ai-eks/OpenClubhouse" target="_blank">ai-eks/OpenClubhouse: A third-part web application based on flask to play Clubhouse audio.</a>  |  <br>  
 <a href="https://github.com/huguodong/flask-permission" target="_blank">huguodong/flask-permission: 一个基于flask的权限管理的后端代码</a>  |  <br>  
 <a href="https://github.com/pallets/flask" target="_blank">pallets/flask: The Python micro framework for building web applications.</a>  |  <br>  
-<a href="https://github.com/vuejs/core" target="_blank">vuejs/core: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</a>  |  <br>  
+<a href="https://github.com/vuejs/vue-next" target="_blank">vuejs/vue-next: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</a>  |  <br>  
 <a href="https://github.com/TheAlgorithms/Python" target="_blank">TheAlgorithms/Python: All Algorithms implemented in Python</a>  |  <br>  
 <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">tailwindlabs/tailwindcss: A utility-first CSS framework for rapid UI development.</a>  |  <br>  
 <a href="https://github.com/ant-design/ant-design" target="_blank">ant-design/ant-design: An enterprise-class UI design language and React UI library</a>  |  <br>  
@@ -1492,8 +1364,8 @@
 <a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap" target="_blank">floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!</a>  |  <br>  
 <a href="https://github.com/github/roadmap" target="_blank">github/roadmap: GitHub public roadmap</a>  |  <br>  
 <a href="https://github.com/nteract/hydrogen" target="_blank">nteract/hydrogen: :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.</a>  |  <br>  
-<a href="https://github.com/2dust/v2rayNG" target="_blank">2dust/v2rayNG: A V2Ray client for Android, support Xray core and v2fly core</a>  |  <br>  
-<a href="https://github.com/2dust/v2rayN" target="_blank">2dust/v2rayN: A V2Ray client for Windows, support Xray core and v2fly core</a>  |  <br>  
+<a href="https://github.com/2dust/v2rayNG" target="_blank">2dust/v2rayNG: None</a>  |  <br>  
+<a href="https://github.com/2dust/v2rayN" target="_blank">2dust/v2rayN: None</a>  |  <br>  
 <a href="https://github.com/AutoHotkey/AutoHotkey" target="_blank">AutoHotkey/AutoHotkey: AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.</a>  |  <br>  
 <a href="https://github.com/ahkscript/awesome-AutoHotkey" target="_blank">ahkscript/awesome-AutoHotkey: A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.</a>  |  <br>  
 <a href="https://github.com/listen1/listen1_desktop" target="_blank">listen1/listen1_desktop: one for all free music in china (Windows, Mac, Linux desktop)</a>  |  <br>  
@@ -1516,7 +1388,7 @@
 <a href="https://github.com/GuillaumeLeclerc/vue-google-maps" target="_blank">GuillaumeLeclerc/vue-google-maps: Google maps component for vue with 2-way data binding</a>  |  <br>  
 <a href="https://github.com/Dafrok/vue-baidu-map" target="_blank">Dafrok/vue-baidu-map: Baidu Map components for Vue 2.x</a>  |  <br>  
 <a href="https://github.com/ElemeFE/vue-amap" target="_blank">ElemeFE/vue-amap: 🌍  基于 Vue 2.x 和高德地图的地图组件 </a>  |  <br>  
-<a href="https://github.com/vuejs/vue-cli" target="_blank">vuejs/vue-cli: 🛠️ webpack-based tooling for Vue.js Development</a>  |  <br>  
+<a href="https://github.com/vuejs/vue-cli" target="_blank">vuejs/vue-cli: 🛠️ Standard Tooling for Vue.js Development</a>  |  <br>  
 <a href="https://github.com/vuejs/vue" target="_blank">vuejs/vue: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</a>  |  <br>  
 <a href="https://github.com/ElemeFE/react-amap" target="_blank">ElemeFE/react-amap: 基于 React 封装的高德地图组件。AMap Component Based On React.</a>  |  <br>  
 <a href="https://github.com/bharathgs/Awesome-pytorch-list" target="_blank">bharathgs/Awesome-pytorch-list: A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.</a>  |  <br>  
